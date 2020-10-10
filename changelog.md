@@ -1,4 +1,19 @@
-## #Change log
+#Change log
+
+---
+
+##v.2 (18.06.2020)
+
+- **New roles here!**
+  Admins, Moderators and Staff help with server
+
+- **Streams!!!**
+  Added category "Stream"! (in beta) <#723257699994959928> make your day funny! Leave commets for streamers here: #deleted-channel
+
+- **Applications!**
+  You want to become Admin, Moderator, Staff? Write `%apply` command here: <#719142865342562324>
+
+- **Other bugs fixed**
 
 ---
 

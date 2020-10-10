@@ -1,17 +1,15 @@
-#Beep-Boop! Server updated to v.1.1 🥳
+#Server updated to v.2 🥳 Yeyyyy!
 
 ##What's new?
 
-- **Added channel <#720209953759035434>**
+- **New roles here!**
+  Admins, Moderators and Staff help with server
 
-- **Added channel <#720209953759035434>**
-  Now @everyone can added own pics. We have gallery!
+- **Streams!!!**
+  Added category "Stream"! (in beta) <#723257699994959928> make your day funny! Leave commets for streamers here: #deleted-channel
 
-- **Added channel <#720209953759035434>**
-  Why not? This channel will be very useful :)
-
-- **Updated "Game Zone"!**
-  Now main <#720209953759035434> is available!
+- **Applications!**
+  You want to become Admin, Moderator, Staff? Write `%apply` command here: <#719142865342562324>
 
 - **Other bugs fixed**
 
@@ -20,3 +18,5 @@
 > Have question? Write here — <#719142865342562324>
 
 Stay tuned! Beep-Boop 🤖
+
+**_P.S. Invite your friends! Link: https://discord.io/saofans_**
