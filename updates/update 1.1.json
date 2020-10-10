@@ -1,0 +1,24 @@
+{
+  "version": 3,
+  "backups": [
+    {
+      "name": "update 1.1",
+      "webhookUrl": "https://discordapp.com/api/webhooks/719139657958293514/_H3eT3VWFW0Gq58QHMvxAOsDYS5dznpmGaJ1psgT6clv1iNcnfv0BR4KH8-x0t-QUv0c",
+      "message": {
+        "content": "@everyone",
+        "embeds": [
+          {
+            "title": "Beep-Boop! Server updated to v.1.1 :partying_face:",
+            "description": "**Whats new?**\n\n+ __Added channel <#720209953759035434>__\n\n+ __Added channel <#720209953759035434>__\nNow @everyone can added own pics. We have gallery!\n\n+ __Added channel <#720209953759035434>__\nWhy not? This channel will be very useful :)\n\n+ __Updated \"Game Zone\"!__\nNow main <#720209953759035434> is available!\n\n+ __Other bugs fixed__\n\n> You know how make server better? <@&727878742461906984> are waiting for you here — <#720209953759035434>\n> If you found bug please write here — <#719142865342562324>\n> Have question? Write here — <#719142865342562324>\n\nStay tuned! Beep-Boop :robot:",
+            "color": 1746708
+          },
+          {
+            "title": "Known bugs",
+            "description": "- __We need more members!__\nInvite your friends to our Discord by the link https://dscrd.in/saofans or https://discord.gg/sjvsBMK\nThanks for your helping! Beep-Boop!",
+            "color": 16711680
+          }
+        ]
+      }
+    }
+  ]
+}
