@@ -1,0 +1,19 @@
+{
+  "version": 3,
+  "backups": [
+    {
+      "name": "update 1",
+      "webhookUrl": "https://discordapp.com/api/webhooks/719139657958293514/_H3eT3VWFW0Gq58QHMvxAOsDYS5dznpmGaJ1psgT6clv1iNcnfv0BR4KH8-x0t-QUv0c",
+      "message": {
+        "content": "@everyone",
+        "embeds": [
+          {
+            "title": "Server updated to v.1.0 :partying_face:",
+            "description": "**What's new?**\n+ Server are open for @everyone!\n\n> If you found bug please write here — <#719142865342562324>\n> Have question? Write here — <#719142865342562324>\n\nStay tuned! :robot:",
+            "color": 1746708
+          }
+        ]
+      }
+    }
+  ]
+}
