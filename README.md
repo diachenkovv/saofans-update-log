@@ -1,21 +1,24 @@
-#Server updated to v.2 🥳 Yeyyyy!
+#Server updated to v.2.1 — Gaming Update
 
 ##What's new?
 
+**Whats new?**
+
 - **New roles here!**
-  Admins, Moderators and Staff help with server
+  Now you can choose platform, where you play (\*warning: this role will be **pinged\***)
 
-- **Streams!!!**
-  Added category "Stream"! (in beta) <#723257699994959928> make your day funny! Leave commets for streamers here: #deleted-channel
+- **New Game!**
+  Added <#724703456052641822> channel
 
-- **Applications!**
-  You want to become Admin, Moderator, Staff? Write `%apply` command here: <#719142865342562324>
+- **Collaborations with other!**
+  Find invite links to collaborated Discord server you can here: <#724703456052641822>
 
 - **Other bugs fixed**
 
 > You know how make server better? <@&727878742461906984> are waiting for you here — <#720209953759035434>
 > If you found bug please write here — <#719142865342562324>
 > Have question? Write here — <#719142865342562324>
+> Want to become Moderator/Administrator? Write `%apply` here — <#719142865342562324>
 
 Stay tuned! Beep-Boop 🤖
 

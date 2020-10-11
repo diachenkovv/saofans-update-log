@@ -1,0 +1,19 @@
+{
+  "version": 3,
+  "backups": [
+    {
+      "name": "update 2.1",
+      "webhookUrl": "https://discordapp.com/api/webhooks/719139657958293514/_H3eT3VWFW0Gq58QHMvxAOsDYS5dznpmGaJ1psgT6clv1iNcnfv0BR4KH8-x0t-QUv0c",
+      "message": {
+        "content": "@everyone",
+        "embeds": [
+          {
+            "title": "Server updated to v.2.1 — Gaming Update",
+            "description": "**Whats new?**\n\n+ __New roles here!__\nNow you can choose platform, where you play (*warning: this role will be **pinged***)\n\n+ New Game!\nAdded <#724703456052641822> channel\n\n+ __Collaborations with other!__\nFind invite links to collaborated Discord server you can here: <#724703456052641822>\n\n+ __Other bugs fixed__\n\n> You know how make server better? <@&727878742461906984> are waiting for you here — <#720209953759035434>\n> If you found bug please write here — <#719142865342562324>\n> Have question? Write here — <#719142865342562324>\n> Want to become Moderator/Administrator? Write `%apply` here — <#719142865342562324>\n\nStay tuned! Beep-Boop :robot:\n\n***P.S. Invite your friends! Link: https://discord.io/saofans***",
+            "color": 1746708
+          }
+        ]
+      }
+    }
+  ]
+}

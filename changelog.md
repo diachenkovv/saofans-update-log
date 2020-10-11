@@ -2,6 +2,24 @@
 
 ---
 
+##v.2.1 **Gaming Update** (22.06.2020)
+
+- **New roles here!**
+  Now you can choose platform, where you play (\*warning: this role will be **pinged\***)
+
+- **New Game!**
+  Added <#724703456052641822> channel
+
+- **Collaborations with other!**
+  Find invite links to collaborated Discord server you can here: <#724703456052641822>
+
+- **Boosts!**
+  Added <#720408138527801384>
+
+- **Other bugs fixed**
+
+---
+
 ##v.2 (18.06.2020)
 
 - **New roles here!**
