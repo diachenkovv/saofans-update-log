@@ -1,0 +1,32 @@
+{
+  "version": 3,
+  "backups": [
+    {
+      "name": "update 2.2",
+      "webhookUrl": "https://discordapp.com/api/webhooks/719139657958293514/_H3eT3VWFW0Gq58QHMvxAOsDYS5dznpmGaJ1psgT6clv1iNcnfv0BR4KH8-x0t-QUv0c",
+      "message": {
+        "content": "@everyone",
+        "embeds": [
+          {
+            "title": "Server updated to v.2.2 — Art Update :art:",
+            "description": "**Whats new?**\n\n+ __Added category \"Arts and Pictures\"__\nNow pictures has own category! Yeyyy :partying_face:\n\n+ __Anime wallpapers now available!__\nAdded <#725712192741179442> channel\n\n+ __Updated channel icons!__\nLooks more pretty, no?\n\n+ __Other bugs fixed__\n\n> You know how make server better? <@&727878742461906984> are waiting for you here — <#720209953759035434>\n> If you found bug please write here — <#719142865342562324>\n> Have question? Write here — <#719142865342562324>\n> Want to become Moderator/Administrator? Write `%apply` here — <#719142865342562324>\n\nStay tuned! Beep-Boop :robot:\n\n***P.S. Invite your friends! Link: https://discord.io/saofans***",
+            "color": 1746708
+          },
+          {
+            "title": "Fatal problems",
+            "description": "After launching <#725712192741179442> activity in our servers **decrease**. Collaborating servers don't publish invite link to our server and I don't think that it's fair. But collaborating servers become more active. So __maybe I'll delete that this channel__.\n\nPlease, be more active here and our server will be grow. Invite friends, share invite link in Instagram, Facebook, Twitter, etc. Invite link: https://discord.io/saofans",
+            "color": 16580608
+          },
+          {
+            "title": "Note :bulb:",
+            "description": "You're first time in Discord and don't know how use? DM me: <@384090776075763732> or write here: <#725712192741179442>",
+            "color": 15658507,
+            "image": {
+              "url": "https://cdn.discordapp.com/attachments/718525814131654727/725712192502104114/SAOIF_2.png"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

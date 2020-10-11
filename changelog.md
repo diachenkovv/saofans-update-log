@@ -2,6 +2,21 @@
 
 ---
 
+##v.2.2 Art Update :art: (25.06.2020)
+
+- **Added category "Arts and Pictures"**
+  Now pictures has own category! Yeyyy :partying_face:
+
+- **Anime wallpapers now available!**
+  Added <#725712192741179442> channel
+
+- **Updated channel icons!**
+  Looks more pretty, no?
+
+- **Other bugs fixed**
+
+---
+
 ##v.2.1 **Gaming Update** (22.06.2020)
 
 - **New roles here!**
