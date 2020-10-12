@@ -2,6 +2,33 @@
 
 ---
 
+##v.4.1 — Guilds Update :beginner:
+
+- **Guild Groups now available!** :beginner:
+  Now you can form guild up to 10 members! It's a private categories where you can create own channels, own rules (they can't breakout main server <#718538031711387769>) and have fun :partying_face:
+
+  > _Now available 3 guilds:_
+  >
+  > - Sleeping Knights
+  > - The Blue Roses
+  > - Moonlit Black Cats
+
+- **Updating <#730836380661448807>** :earth_africa:
+  Now here you can also join to guild (only ONE guild you can choose!)
+
+- **Form own guild!** :shield:
+  Want create own guild? Leave your application here: <#730836380661448807>
+
+  > - Maximum numbers of guilds — 10 guilds!
+  > - You can change name only several times (no more than 1 per day!) So think carefully about the guild name (reccomended use SAO guilds name)
+
+- **Created channel <#730836380661448807>** :new:
+  First time in Discord? Here you can find instructions how to use Discord with comfort :wink:
+
+- **Other bugs fixed** :beetle:
+
+---
+
 ##v.4 — Discord Update 🆙 (01.07.2020)
 
 - **Redesign <#727878742461906984>** :paintbrush:
@@ -22,9 +49,9 @@
 - **Eli now... Yui!** <:YuiHugs:722537785650839623>
   Eli bot in our server calls Yui and has new prefix `yui`
 
-- **Discord now NOT only for gamers!** :confetti_ball:
+- **Discord now NOT only for gamers!** :confetti*ball:
   So, in quarantine I remembered about Discord and now I use as often as Instagram! So, invite your friends into Discord :wink:
-  _Thank you, Discord. You rescue us in hard time_
+  \_Thank you, Discord. You rescue us in hard time*
 
 - **Other bugs fixed**
 

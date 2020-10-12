@@ -1,32 +1,35 @@
-#Server updated to v.4 — Discord Update 🆙
+#Server updated to v.4.1 — Guilds Update :beginner:
 
 ##What's new?
 
-_Server updates looks like Android updates ;)_
+- **Guild Groups now available!** :beginner:
+  Now you can form guild up to 10 members! It's a private categories where you can create own channels, own rules (they can't breakout main server <#718538031711387769>) and have fun :partying_face:
 
-- **Redesign <#727878742461906984>** :paintbrush:
-  Welcome channel has new welcome message for new members. Here you can change server region (or choose both)
+  > _Now available 3 guilds:_
+  >
+  > - Sleeping Knights
+  > - The Blue Roses
+  > - Moonlit Black Cats
 
-- **New rules!** :scroll:
-  For some reasons rules need be updated. Please, accept rules reacting :white_check_mark:
+- **Updating <#730836380661448807>** :earth_africa:
+  Now here you can also join to guild (only ONE guild you can choose!)
 
-- **Sad mood? No, haven't heard!** :cry:→:grin:
-  You have bad mood? Write here <#727878742461906984> and we make you happy :blush:
+- **Form own guild!** :shield:
+  Want create own guild? Leave your application here: <#730836380661448807>
 
-- **Time for music!** <:Spotify:723644091996307556>
-  Want make party? Use <@252128902418268161> in "Music Zone"!
-  <#727878742461906984> — leave links to songs/albums/playlists
-  <#727878742461906984> — talking with <@252128902418268161> (prefix `!`)
-  Music Channel — listening Music
+  > - Maximum numbers of guilds — 10 guilds!
+  > - You can change name only several times (no more than 1 per day!) So think carefully about the guild name (reccomended use SAO guilds name)
 
-- **Eli now... Yui!** <:YuiHugs:722537785650839623>
-  Eli bot in our server calls Yui and has new prefix `yui`
+- **Created channel <#730836380661448807>** :new:
+  First time in Discord? Here you can find instructions how to use Discord with comfort :wink:
 
-- **Discord now NOT only for gamers!** :confetti*ball:
-  So, in quarantine I remembered about Discord and now I use as often as Instagram! So, invite your friends into Discord :wink:
-  \_Thank you, Discord. You rescue us in hard time*
+:bell: **Reminder**
+— **_2 days left_** until Sword Art Online: Alicization - War of Underworld 2nd Season release :clock10:
+— **_1 day left_** until Sword Art Online: Alicization Lycoris release :clock11:
 
-- **Other bugs fixed**
+> Game chat already available: <#730836380661448807>, get access to chat here: #〖🔐〗get-access
+
+:wrench: **Other bugs fixed** :beetle:
 
 > You know how make server better? <@&727878742461906984> are waiting for you here — <#720209953759035434>
 > If you found bug please write here — <#719142865342562324>
@@ -34,6 +37,6 @@ _Server updates looks like Android updates ;)_
 > Want to become Moderator/Administrator? Write `%apply` here — <#719142865342562324>
 > Invite link: `discord.io/saofans`
 
-Stay tuned! Beep-Boop 🤖
+Stay cool! :sunglasses:
 
-![picture](https://static.zerochan.net/Sword.Art.Online.full.1795338.jpg)
+![picture](https://i.pinimg.com/originals/99/b0/eb/99b0ebaaf4b9974038058ed22c91dfd3.jpg)

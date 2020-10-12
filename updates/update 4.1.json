@@ -1,0 +1,22 @@
+{
+  "version": 3,
+  "backups": [
+    {
+      "name": "update 4.1",
+      "webhookUrl": "https://discordapp.com/api/webhooks/719139657958293514/_H3eT3VWFW0Gq58QHMvxAOsDYS5dznpmGaJ1psgT6clv1iNcnfv0BR4KH8-x0t-QUv0c",
+      "message": {
+        "content": "@everyone",
+        "embeds": [
+          {
+            "title": "Server updated to v.4.1 — Guilds Update :beginner:",
+            "description": "**Whats new?**\n\n+ **__Guild Groups now available!__** :beginner:\nNow you can form guild up to 10 members! It's a private categories where you can create own channels, own rules (they can't breakout main server <#718538031711387769>) and have fun :partying_face:\n> *Now available 3 guilds:*\n> * Sleeping Knights\n> * The Blue Roses\n> * Moonlit Black Cats\n\n+ **__Updating <#730836380661448807>__** :earth_africa:\nNow here you can also join to guild (only ONE guild you can choose!)\n\n+ **__Form own guild!__** :shield:\nWant create own guild? Leave your application here: <#730836380661448807> \n> * Maximum numbers of guilds — 10 guilds!\n> * You can change name only several times (no more than 1 per day!) So think carefully about the guild name (reccomended use SAO guilds name)\n\n+ **__Created channel <#730836380661448807>__** :new:\nFirst time in Discord? Here you can find instructions how to use Discord with comfort :wink:\n\n:bell: **Reminder**\n— ***2 days left*** until Sword Art Online: Alicization - War of Underworld 2nd Season release :clock10:\n— ***1 day left*** until Sword Art Online: Alicization Lycoris release :clock11:\n> Game chat already available: <#730836380661448807>, get access to chat here: #〖🔐〗get-access\n\n:wrench: **__Other bugs fixed__** :beetle:\n\n> You know how make server better? <@&727878742461906984> are waiting for you here — <#720209953759035434>\n> If you found bug please write here — <#719142865342562324>\n> Have question? Write here — <#719142865342562324>\n> Want to become Moderator/Administrator? Write `%apply` here — <#719142865342562324>\n> Invite link: `discord.io/saofans`\n\nStay cool! :sunglasses:",
+            "color": 1746708,
+            "image": {
+              "url": "https://i.pinimg.com/originals/99/b0/eb/99b0ebaaf4b9974038058ed22c91dfd3.jpg"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
