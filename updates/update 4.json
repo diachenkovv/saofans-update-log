@@ -1,0 +1,22 @@
+{
+  "version": 3,
+  "backups": [
+    {
+      "name": "update 4",
+      "webhookUrl": "https://discordapp.com/api/webhooks/719139657958293514/_H3eT3VWFW0Gq58QHMvxAOsDYS5dznpmGaJ1psgT6clv1iNcnfv0BR4KH8-x0t-QUv0c",
+      "message": {
+        "content": "@everyone",
+        "embeds": [
+          {
+            "title": "Server updated to v.4 — Discord Update 🆙",
+            "description": "*Server updates looks like Android updates ;)*\n\n**Whats new?**\n\n+ **__Redesign <#727878742461906984>__** :paintbrush:\nWelcome channel has new welcome message for new members. Here you can change server region (or choose both)\n\n+ **__New rules!__** :scroll:\nFor some reasons rules need be updated. Please, accept rules reacting :white_check_mark:\n\n+ __**Sad mood? No, haven't heard!**__ :cry:→:grin:\nYou have bad mood? Write here <#727878742461906984> and we make you happy :blush:\n\n+ **__Time for music!__** <:Spotify:723644091996307556>\nWant make party? Use <@252128902418268161> in \"Music Zone\"!\n<#727878742461906984> — leave links to songs/albums/playlists\n<#727878742461906984> — talking with <@252128902418268161> (prefix `!`)\nMusic Channel — listening Music\n\n+ **__Eli now... Yui!__** <:YuiHugs:722537785650839623>\nEli bot in our server calls Yui and has new prefix `yui`\n\n+ __**Discord now NOT only for gamers!**__ :confetti_ball:\nSo, in quarantine I remembered about Discord and now I use as often as Instagram! So, invite your friends into Discord :wink:\n*Thank you, Discord. You rescue us in hard time*\n\n+ __**Other bugs fixed**__\n\n> You know how make server better? <@&727878742461906984> are waiting for you here — <#720209953759035434>\n> If you found bug please write here — <#719142865342562324>\n> Have question? Write here — <#719142865342562324>\n> Want to become Moderator/Administrator? Write `%apply` here — <#719142865342562324>\n> Invite link: `discord.io/saofans`\n\nStay tuned! Beep-Boop 🤖\n",
+            "color": 1746708,
+            "image": {
+              "url": "https://static.zerochan.net/Sword.Art.Online.full.1795338.jpg"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

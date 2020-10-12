@@ -2,6 +2,34 @@
 
 ---
 
+##v.4 — Discord Update 🆙 (01.07.2020)
+
+- **Redesign <#727878742461906984>** :paintbrush:
+  Welcome channel has new welcome message for new members. Here you can change server region (or choose both)
+
+- **New rules!** :scroll:
+  For some reasons rules need be updated. Please, accept rules reacting :white_check_mark:
+
+- **Sad mood? No, haven't heard!** :cry:→:grin:
+  You have bad mood? Write here <#727878742461906984> and we make you happy :blush:
+
+- **Time for music!** <:Spotify:723644091996307556>
+  Want make party? Use <@252128902418268161> in "Music Zone"!
+  <#727878742461906984> — leave links to songs/albums/playlists
+  <#727878742461906984> — talking with <@252128902418268161> (prefix `!`)
+  Music Channel — listening Music
+
+- **Eli now... Yui!** <:YuiHugs:722537785650839623>
+  Eli bot in our server calls Yui and has new prefix `yui`
+
+- **Discord now NOT only for gamers!** :confetti_ball:
+  So, in quarantine I remembered about Discord and now I use as often as Instagram! So, invite your friends into Discord :wink:
+  _Thank you, Discord. You rescue us in hard time_
+
+- **Other bugs fixed**
+
+---
+
 ##v.3 Major Update 🆙 (28.06.2020)
 
 - **Added category "Music Zone"** 🎶

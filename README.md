@@ -1,30 +1,30 @@
-#Server updated to v.3 - Major Update 🆙
+v.#Server updated to v.4 — Discord Update 🆙
 
 ##What's new?
 
-- **Added category "Music Zone"** 🎶
-  Sharing amazing music — <#726842319977971764>
-  For music bot commands — <#726842319977971764>
-  Let's party start! Yeyyy 🥳
+_Server updates looks like Android updates ;)_
 
-- **Added Music Bot!**
-  Rythm 2 ready to use! (prefix `!`)
-  Added "Music Channel" Voice channel
+- **Redesign <#727878742461906984>** :paintbrush:
+  Welcome channel has new welcome message for new members. Here you can change server region (or choose both)
 
-- **Collaboration program grow!**
-  Check invite links here: <#726842319977971764>
+- **New rules!** :scroll:
+  For some reasons rules need be updated. Please, accept rules reacting :white_check_mark:
 
-- **Added new roles!**
-  <@&726842319977971764> — thank you very much
-  <@&726842319977971764> (Server Boosters) — you're amazing!
+- **Sad mood? No, haven't heard!** :cry:→:grin:
+  You have bad mood? Write here <#727878742461906984> and we make you happy :blush:
 
-- **Reached Goal!**
-  We have more 50 members 🥳
-  New goal — 100 members
+- **Time for music!** <:Spotify:723644091996307556>
+  Want make party? Use <@252128902418268161> in "Music Zone"!
+  <#727878742461906984> — leave links to songs/albums/playlists
+  <#727878742461906984> — talking with <@252128902418268161> (prefix `!`)
+  Music Channel — listening Music
 
-- **New updates releases**
-  Major update — when members goal reached
-  Minor updates — every week
+- **Eli now... Yui!** <:YuiHugs:722537785650839623>
+  Eli bot in our server calls Yui and has new prefix `yui`
+
+- **Discord now NOT only for gamers!** :confetti*ball:
+  So, in quarantine I remembered about Discord and now I use as often as Instagram! So, invite your friends into Discord :wink:
+  \_Thank you, Discord. You rescue us in hard time*
 
 - **Other bugs fixed**
 
@@ -32,7 +32,8 @@
 > If you found bug please write here — <#719142865342562324>
 > Have question? Write here — <#719142865342562324>
 > Want to become Moderator/Administrator? Write `%apply` here — <#719142865342562324>
+> Invite link: `discord.io/saofans`
 
 Stay tuned! Beep-Boop 🤖
 
-![picture](https://image.winudf.com/v2/image/Y29tLnNhby5zeW1waG9ueV9zY3JlZW5fNF8xNTI3NjYyMjMyXzAxNw/screen-4.jpg?h=355&fakeurl=1&type=.jpg)
+![picture](https://static.zerochan.net/Sword.Art.Online.full.1795338.jpg)
