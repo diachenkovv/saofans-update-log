@@ -2,6 +2,36 @@
 
 ---
 
+##v.3 Major Update 🆙 (28.06.2020)
+
+- **Added category "Music Zone"** 🎶
+  Sharing amazing music — <#726842319977971764>
+  For music bot commands — <#726842319977971764>
+  Let's party start! Yeyyy 🥳
+
+- **Added Music Bot!**
+  Rythm 2 ready to use! (prefix `!`)
+  Added "Music Channel" Voice channel
+
+- **Collaboration program grow!**
+  Check invite links here: <#726842319977971764>
+
+- **Added new roles!**
+  <@&726842319977971764> — thank you very much
+  <@&726842319977971764> (Server Boosters) — you're amazing!
+
+- **Reached Goal!**
+  We have more 50 members 🥳
+  New goal — 100 members
+
+- **New updates releases**
+  Major update — when members goal reached
+  Minor updates — every week
+
+- **Other bugs fixed**
+
+---
+
 ##v.2.2 Art Update :art: (25.06.2020)
 
 - **Added category "Arts and Pictures"**

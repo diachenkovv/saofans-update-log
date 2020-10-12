@@ -1,0 +1,22 @@
+{
+  "version": 3,
+  "backups": [
+    {
+      "name": "update 3",
+      "webhookUrl": "https://discordapp.com/api/webhooks/719139657958293514/_H3eT3VWFW0Gq58QHMvxAOsDYS5dznpmGaJ1psgT6clv1iNcnfv0BR4KH8-x0t-QUv0c",
+      "message": {
+        "content": "@everyone",
+        "embeds": [
+          {
+            "title": "Server updated to v.3 - Major Update 🆙",
+            "description": "**Whats new?**\n\n+ __**Added category \"Music Zone\"**__ 🎶\nSharing amazing music — <#726842319977971764>\nFor music bot commands — <#726842319977971764>\nLet's party start! Yeyyy 🥳\n\n+ **__Added Music Bot!__**\nRythm 2 ready to use! (prefix `!`)\nAdded \"Music Channel\" Voice channel\n\n+ __**Collaboration program grow!**__\nCheck invite links here: <#726842319977971764>\n\n+ __**Added new roles!**__\n<@&726842319977971764> — thank you very much\n<@&726842319977971764> (Server Boosters) — you're amazing!\n\n+ __**Reached Goal!**__\nWe have more 50 members 🥳\nNew goal — 100 members\n\n+ __**New updates releases**__\nMajor update — when members goal reached\nMinor updates — every week\n\n+ __**Other bugs fixed**__\n\n> You know how make server better? <@&727878742461906984> are waiting for you here — <#720209953759035434>\n> If you found bug please write here — <#719142865342562324>\n> Have question? Write here — <#719142865342562324>\n> Want to become Moderator/Administrator? Write `%apply` here — <#719142865342562324>\n\nStay tuned! Beep-Boop 🤖\n",
+            "color": 1746708,
+            "image": {
+              "url": "https://image.winudf.com/v2/image/Y29tLnNhby5zeW1waG9ueV9zY3JlZW5fNF8xNTI3NjYyMjMyXzAxNw/screen-4.jpg?h=355&fakeurl=1&type=.jpg"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
