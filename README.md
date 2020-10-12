@@ -1,4 +1,4 @@
-v.#Server updated to v.4 — Discord Update 🆙
+#Server updated to v.4 — Discord Update 🆙
 
 ##What's new?
 
