@@ -1,36 +1,53 @@
-#Server updated to v.5 — Server Update
+#Server updated to v.6 — Community Update
 
 ##What's new?
 
-- **Reach goal!** 🥳
-  We get 100 members! Thank you all for your support!
-  New goal: 200 members. Invite your friends.
-  Our invite link: https://discord.io/saofans
+- **We reached 2nd boosting level!** 🥳
+  Guys, you're amazing! Thank you very mush for supporting!
+  Now we can:
 
-- **Redesign <#718539756882886708>!** 🌎
-  Now all roles choosing move to <#718539756882886708>. Cool!
+> - Upload files up to 50 Mb
+> - Go Live 1080p/60 FPS
+> - have up to 150 emotes
+> - Sound quality 256 kbit/sec
 
-- **Events now available!** 🎁
-  Check <#732651124506492938> and stay tuned for new Argo events 😉
+- **New <#718538031711387769>!** 📜
+  Rules updated. And now server staff become more strict to breakout rules. Also for staff created <#739096929795047465>
 
-- **\*Guild rules!** 🛡
-  You can check here: <#718538031711387769>
+- **Roles updated** 💼
+  Now from staff we have Moderators, Admins, Co-owners.
 
-- **Other anime discussion** 📺
-  Want discuss other animes? Now you can do this in anime chat!
+- **Anime Zone** 📺
+  Want discuss other anime? Now Anime Zone available! Now you can upload:
 
-- **New @Co-owner!**
-  So, we have new co-owner: <@726888709835718756> 🥳
-  We're believe in you that you can help owner make this server better and more comfortable 🙂
+> - <#739104596433305600>
+> - <#725495453944381560> — requirements: resolution at least 1366x768 and more. Others pics will be delete
+> - <#720046100089798719>
+> - <#739113567210569750>
+>   And also <#731261367247437964> for discussion 😉
+
+- **Pictures and AMV!** 🖼
+  You can check here:
+
+> - <#718526108823322655>
+> - <#720729412244340807> — requirements: resolution 1366x768 and more, 16:9 / 9:16 and more
+> - <#739105179424784505>
+> - <#739113162787389570>
+
+- **Now we are Community Server!** 👥
+  Now we have announcements channels, welcome screen and more instruments for moderating!
+
+- **Inactive members — goodbye** 👋
+  We start clearing our server from inactive members. Our server should be alive! 🦸‍♂️
 
 🔧 **Other bugs fixed** 🐞
 
 > You know how make server better? <@&718500117660958770> are waiting for you here — <#718535990771318906>
 > If you found bug please write here — <#718536211953745941>
 > Have question? Write here — <#718536569199525958>
-> Want to become Moderator/Administrator? Write `%apply` here — <#718536569199525958>
+> Want to become Server Staff? Write `%apply` here — <#718536569199525958>
 
 **Our official invite link: https://discord.io/saofans**
 
 Stay cool! 😎
-![picture](https://pbs.twimg.com/media/C7ElGwXWwAARQlU.jpg)
+![picture](https://wallpapercave.com/wp/wp4225425.png)

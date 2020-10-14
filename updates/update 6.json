@@ -1,0 +1,22 @@
+{
+  "version": 3,
+  "backups": [
+    {
+      "name": "update 6",
+      "webhookUrl": "https://discordapp.com/api/webhooks/719139657958293514/_H3eT3VWFW0Gq58QHMvxAOsDYS5dznpmGaJ1psgT6clv1iNcnfv0BR4KH8-x0t-QUv0c",
+      "message": {
+        "content": "@everyone",
+        "embeds": [
+          {
+            "title": "Server updated to v.6 — Community Update",
+            "description": "**Whats new?**\n\n+ **__We reached 2nd boosting level!__** 🥳\nGuys, you're amazing! Thank you very mush for supporting!\nNow we can:\n* Upload files up to 50 Mb\n* Go Live 1080p/60 FPS\n* have up to 150 emotes\n* Sound quality 256 kbit/sec\n\n+ **__New <#718538031711387769>!__** 📜\nRules updated. And now server staff become more strict to breakout rules. Also for staff created <#739096929795047465>\n\n+ **__Roles updated__** 💼\nNow from staff we have Moderators, Admins, Co-owners.\n\n+ __**Anime Zone**__ 📺\nWant discuss other anime? Now Anime Zone available! Now you can upload:\n - <#739104596433305600>\n- <#725495453944381560> — requirements: resolution at least 1366x768 and more. Others pics will be delete\n- <#720046100089798719>\n- <#739113567210569750>\nAnd also <#731261367247437964> for discussion 😉\n\n+ **__Pictures and AMV!__** 🖼\nYou can check here: \n- <#718526108823322655>\n- <#720729412244340807> — requirements: resolution 1366x768 and more, 16:9 / 9:16 and more\n- <#739105179424784505>\n- <#739113162787389570>\n\n+ **__Now we are Community Server!__** 👥\nNow we have announcements channels, welcome screen and more instruments for moderating!\n\n+ __**Inactive members — goodbye**__ 👋\nWe start clearing our server from inactive members. Our server should be alive! 🦸‍♂️\n\n🔧 **__Other bugs fixed__** 🐞\n\n> You know how make server better? <@&718500117660958770> are waiting for you here — <#718535990771318906>\n> If you found bug please write here — <#718536211953745941>\n> Have question? Write here — <#718536569199525958>\n> Want to become Server Staff? Write `%apply` here —  <#718536569199525958>\n\n**Our official invite link: https://discord.io/saofans**\n\nStay cool! 😎",
+            "color": 1746708,
+            "image": {
+              "url": "https://wallpapercave.com/wp/wp4225425.png"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
