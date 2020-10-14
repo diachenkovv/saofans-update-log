@@ -6,7 +6,7 @@
   Now you can:
 
   > - Upload to 100 Mb files;
-  > - 384 kbit in voice chat
+  > - 384 kbit/s in voice chats
   > - 100 slots for emoji (now 250)
   > - Custom URL invite link
   >   **But we will lose this after 5 days. We need 4 boosters**
@@ -30,7 +30,7 @@
 > Have question? Write here — [#〖📠〗feedback](#718536569199525958)  
 > Want to become Server Staff? Write `%apply` here — [#〖📠〗feedback](#718536569199525958)
 
-**Our official invite link: https://discord.io/saofans**
+**Our official invite link: https://discord.io/saofans**  
 **Official Russian invite link: https://discord.io/saofans_ru**
 
 Stay cool! 😎  
