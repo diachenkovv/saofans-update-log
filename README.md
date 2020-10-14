@@ -1,6 +1,6 @@
-#Server updated to v.5 — Server Update#
+#Server updated to v.5 — Server Update
 
-##What's new?##
+##What's new?
 
 - **Reach goal!** 🥳
   We get 100 members! Thank you all for your support!
