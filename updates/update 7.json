@@ -1,0 +1,22 @@
+{
+  "version": 3,
+  "backups": [
+    {
+      "name": "update 7",
+      "webhookUrl": "https://discordapp.com/api/webhooks/719139657958293514/_H3eT3VWFW0Gq58QHMvxAOsDYS5dznpmGaJ1psgT6clv1iNcnfv0BR4KH8-x0t-QUv0c",
+      "message": {
+        "content": "@everyone",
+        "embeds": [
+          {
+            "title": "Server updated to v.7 — Summer Update",
+            "description": "**Whats new?**\n\n+ **__Launched Russian server Sword Art Online!__** 🥳\nFrom main server was separate Russian category and now russian members has own community!\n\n+ **__Happy birthday!__** 🎈\nLaunched channel <#743849859802726420>! Now no one will forget about your birthday :wink:\n\n+ **__Spam chat__** ☣\nWant to spam? Now you can! Go to <#737733919188975637> and write anything! (Disable notifications 😅)\n\n+ __**Applications again in deal**__ 📝\nNow you can again send applications to become Moderator, Admin, Co-owner\n\n+ **__Summer design!__** 🏖\nUpdated icon, server banner and invite banner. Soon, new Argo's <#732651124506492938>\n\n+ **__Summer events!__** 🎁\nCheck Argo's new <#732651124506492938>\n\n+ **__Roleplay now move to [SAO RP server](https://discord.gg/NZr2zv5)__** 🚚\n<#718537344403243048> will be delete. Now roleplay chats will be in SAO RP server.\nWe created SAO community network servers, where include:\n- [Main server](https://discord.gg/sjvsBMK)\n- [Russian Server](https://discord.gg/tKEWany)\n- [SAO RP server](https://discord.gg/NZr2zv5)\n\n🔧 **__Other bugs fixed__** 🐞\n\n> You know how make server better? <@&718500117660958770> are waiting for you here — <#718535990771318906>\n> If you found bug please write here — <#718536211953745941>\n> Have question? Write here — <#718536569199525958>\n> Want to become Server Staff? Write `%apply` here —  <#718536569199525958>\n\n**Our official invite link: https://discord.io/saofans**\n**Official Russian invite link: https://discord.io/saofans_ru**\n\nStay cool! 😎",
+            "color": 1746708,
+            "image": {
+              "url": "https://i.redd.it/7a5q90oqn7hz.jpg"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

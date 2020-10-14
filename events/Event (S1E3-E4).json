@@ -1,0 +1,30 @@
+{
+  "version": 3,
+  "backups": [
+    {
+      "name": "Ivent",
+      "webhookUrl": "https://ptb.discordapp.com/api/webhooks/732651429201838090/H0UnPCUcryq7PeDLYdjcX1DF76ph_0A0fVPRApOiEmtksvfa3YCh1ECzs4GLJvJzbt4L",
+      "message": {
+        "content": "@everyone",
+        "embeds": [
+          {
+            "title": "Summer drawing Event!",
+            "description": "Hello there! :wave:\n\nI hope you missed events, because now you have 2 events!\nYou need draw SAO picture. Theme: summer. You need publish you work until August 20. Then channel will be closed for publishing and begin voting. On August 24 will be results. Drawings win with the langest numbers of likes (reactions)\n\n**Event:** Drawing Event\n**Date:** August 15 — August 24\n**Task:** Draw __Sword Art Online summer__ (not other anime!) pic and publish to <#739105179424784505>\n**Reward:** \n- 1st place — **Discord Nitro (with 2 boosts)**\n- 2nd place — Custome role\n- 3rd place — 20 000 XP\n\nGood luck, my friends :wink:\nBest wishes,\n𝒜𝓇𝑔𝑜",
+            "color": 14608129,
+            "image": {
+              "url": "https://i.redd.it/czapgk3hu4h21.jpg"
+            }
+          },
+          {
+            "title": "Reputation Point Event!",
+            "description": "Yeah, we have 2 events! So, from August 15 to August 31 you need get the largest number of reputation points (`eli rep`) \n\n**Event:** Reputation point Event\n**Date:** August 15 — August 31\n**Task:** Get the largest number of reputation points (`eli rep`)\n**Reward:** \n- 1st place — **Custom role**\n- 2nd place — 10 000 XP\n- 3rd place — 5 000 XP\n\nGood luck, my friends :wink:\nBest wishes,\n𝒜𝓇𝑔𝑜",
+            "color": 2286088,
+            "image": {
+              "url": "https://cdn.igromania.ru/mnt/news/4/8/d/a/c/7/93082/f08a871a39172696_1920xH.jpg"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

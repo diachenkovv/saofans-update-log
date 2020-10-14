@@ -2,7 +2,39 @@
 
 ---
 
-##Server updated to v.6 — Community Update
+##v.7 — Summer Update (15.08.2020)
+
+- **Launched Russian server Sword Art Online!** 🥳
+  From main server was separate Russian category and now russian members has own community!
+
+- **Happy birthday!** 🎈
+  Launched channel <#743849859802726420>! Now no one will forget about your birthday :wink:
+
+- **Spam chat** ☣
+  Want to spam? Now you can! Go to <#737733919188975637> and write anything! (Disable notifications 😅)
+
+- **Applications again in deal** 📝
+  Now you can again send applications to become Moderator, Admin, Co-owner
+
+- **Summer design!** 🏖
+  Updated icon, server banner and invite banner. Soon, new Argo's <#732651124506492938>
+
+- **Summer events!** 🎁
+  Check Argo's new <#732651124506492938>
+
+- **Roleplay now move to [SAO RP server](https://discord.gg/NZr2zv5)** 🚚
+  <#718537344403243048> will be delete. Now roleplay chats will be in SAO RP server.
+  We created SAO community network servers, where include:
+
+* [Main server](https://discord.gg/sjvsBMK)
+* [Russian Server](https://discord.gg/tKEWany)
+* [SAO RP server](https://discord.gg/NZr2zv5)
+
+🔧 **Other bugs fixed** 🐞
+
+---
+
+##v.6 — Community Update (01.08.2020)
 
 - **We reached 2nd boosting level!** 🥳
   Guys, you're amazing! Thank you very mush for supporting!

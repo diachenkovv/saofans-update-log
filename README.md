@@ -1,53 +1,42 @@
-#Server updated to v.6 — Community Update
+#Server updated to v.7 — Summer Update
 
 ##What's new?
 
-- **We reached 2nd boosting level!** 🥳
-  Guys, you're amazing! Thank you very mush for supporting!
-  Now we can:
+- **Launched Russian server Sword Art Online!** 🥳
+  From main server was separate Russian category and now russian members has own community!
 
-> - Upload files up to 50 Mb
-> - Go Live 1080p/60 FPS
-> - have up to 150 emotes
-> - Sound quality 256 kbit/sec
+- **Happy birthday!** 🎈
+  Launched channel [#〖🎂〗happy-birthday](#743849859802726420)! Now no one will forget about your birthday :wink:
 
-- **New <#718538031711387769>!** 📜
-  Rules updated. And now server staff become more strict to breakout rules. Also for staff created <#739096929795047465>
+- **Spam chat** ☣
+  Want to spam? Now you can! Go to [#〖🚫〗spam-chat](#737733919188975637) and write anything! (Disable notifications 😅)
 
-- **Roles updated** 💼
-  Now from staff we have Moderators, Admins, Co-owners.
+- **Applications again in deal** 📝
+  Now you can again send applications to become Moderator, Admin, Co-owner
 
-- **Anime Zone** 📺
-  Want discuss other anime? Now Anime Zone available! Now you can upload:
+- **Summer design!** 🏖
+  Updated icon, server banner and invite banner. Soon, new Argo's [#〖🎁〗events](#732651124506492938)
 
-> - <#739104596433305600>
-> - <#725495453944381560> — requirements: resolution at least 1366x768 and more. Others pics will be delete
-> - <#720046100089798719>
-> - <#739113567210569750>
->   And also <#731261367247437964> for discussion 😉
+- **Summer events!** 🎁
+  Check Argo's new [#〖🎁〗events](#732651124506492938)
 
-- **Pictures and AMV!** 🖼
-  You can check here:
+- **Roleplay now move to [SAO RP server](https://discord.gg/NZr2zv5)** 🚚
+  <#718537344403243048> will be delete. Now roleplay chats will be in SAO RP server.
+  We created SAO community network servers, where include:
 
-> - <#718526108823322655>
-> - <#720729412244340807> — requirements: resolution 1366x768 and more, 16:9 / 9:16 and more
-> - <#739105179424784505>
-> - <#739113162787389570>
-
-- **Now we are Community Server!** 👥
-  Now we have announcements channels, welcome screen and more instruments for moderating!
-
-- **Inactive members — goodbye** 👋
-  We start clearing our server from inactive members. Our server should be alive! 🦸‍♂️
+* [Main server](https://discord.gg/sjvsBMK)
+* [Russian Server](https://discord.gg/tKEWany)
+* [SAO RP server](https://discord.gg/NZr2zv5)
 
 🔧 **Other bugs fixed** 🐞
 
-> You know how make server better? <@&718500117660958770> are waiting for you here — <#718535990771318906>
-> If you found bug please write here — <#718536211953745941>
-> Have question? Write here — <#718536569199525958>
-> Want to become Server Staff? Write `%apply` here — <#718536569199525958>
+> You know how make server better? [@Admins](@&718500117660958770) are waiting for you here — <#718535990771318906>
+> If you found bug please write here — [#〖📑〗suggestions](#718536211953745941)
+> Have question? Write here — [#〖🐞〗bugs](#718536569199525958)
+> Want to become Server Staff? Write `%apply` here — [#〖📠〗feedback](#718536569199525958)
 
 **Our official invite link: https://discord.io/saofans**
+**Official Russian invite link: https://discord.io/saofans_ru**
 
 Stay cool! 😎
-![picture](https://wallpapercave.com/wp/wp4225425.png)
+![picture](https://i.redd.it/7a5q90oqn7hz.jpg)

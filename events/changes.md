@@ -2,6 +2,30 @@
 
 ---
 
+##S1E4 — Reputation Point Event! (15.08.2020)
+
+**Event:** Reputation point Event
+**Date:** August 15 — August 31
+**Task:** Get the largest number of reputation points (`eli rep`)
+**Reward:**
+
+- 1st place — **Custom role**
+- 2nd place — 10 000 XP
+- 3rd place — 5 000 XP
+
+##S1E3 — Summer drawing Event! (15.08.2020)
+
+**Event:** Drawing Event
+**Date:** August 15 — August 24
+**Task:** Draw **Sword Art Online summer** (not other anime!) pic and publish to <#739105179424784505>
+**Reward:**
+
+- 1st place — **Discord Nitro (with 2 boosts)**
+- 2nd place — Custome role
+- 3rd place — 20 000 XP
+
+---
+
 ##S1E2 — Member Inviting Event :gift: (18.07.2020)
 **Event:** Member Inviting Event
 **Date:** July 18 — August 18
