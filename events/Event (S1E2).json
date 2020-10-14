@@ -1,0 +1,22 @@
+{
+  "version": 3,
+  "backups": [
+    {
+      "name": "Event (S1E2)",
+      "webhookUrl": "https://ptb.discordapp.com/api/webhooks/732651429201838090/H0UnPCUcryq7PeDLYdjcX1DF76ph_0A0fVPRApOiEmtksvfa3YCh1ECzs4GLJvJzbt4L",
+      "message": {
+        "content": "@everyone",
+        "embeds": [
+          {
+            "title": "Member Inviting Event :gift:",
+            "description": "Hello there! :wave:\n\nOur community growing and now we have more than 100 members! So let's help make our server one of the biggest SAO community!\n\nFrom July 18 to August 18 for every invited member you get 1000 XP! :confetti_ball:\n\n**Event:** Member Inviting Event\n**Date:** July 18 — August 18\n**Task:** Invite SAO fans:\n\n1. Generate invite link to <#734016255694077972> channel (other channels not count!)\n2. Set expire time — \"Never\"\n3. Share with SAO friends, post in Instagram, Facebooc and etc.\n   **Reward:** 1000 XP/member\n   If you invite more than 10 members — 2000 XP/member\n\nGood luck, my friends :wink:\nBest wishes,\n𝒜𝓇𝑔𝑜",
+            "color": 228886,
+            "image": {
+              "url": "https://images.alphacoders.com/632/thumb-1920-632524.jpg"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

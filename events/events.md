@@ -1,17 +1,23 @@
-#Anime Premiere Event :gift:
-###Hello! :wave:
+#Member Inviting Event :gift:
+Hello there! :wave:
 
-With releasing Sword Art Online: Alicization Lycoris and Sword Art Online: Alicization - War of Underworld, launching event for everyone!
+Our community growing and now we have more than 100 members! So let's help make our server one of the biggest SAO community!
 
-From July 14 to July 24 every user will give **100** XP/message :confetti_ball: (default — 10 XP/message)
-Be active in server and invite new members!
+From July 18 to August 18 for every invited member you get 1000 XP! :confetti_ball:
 
-**Event:** Anime Premiere Event
-**Date:** July 14 — July 24
-**Task:** Be active in server and invite new friends
-**Reward** 100 XP/message
+**Event:** Member Inviting Event
+**Date:** July 18 — August 18
+**Task:** Invite SAO fans:
 
+1. Generate invite link to [#〖🧭〗link-start](#734016255694077972) channel (other channels not count!)
+2. Set expire time — "Never"
+3. Share with SAO friends, post in Instagram, Facebooc and etc.
+
+**Reward:** 1000 XP/member
+If you invite more than 10 members — 2000 XP/member
+
+Good luck, my friends :wink:
 Best wishes,
 𝒜𝓇𝑔𝑜
 
-![picture](https://www.awn.com/sites/default/files/styles/original/public/image/featured/sword_art_online_keyart-1280x720.jpg?itok=sUwFssuh)
+![picture](https://images.alphacoders.com/632/thumb-1920-632524.jpg)
