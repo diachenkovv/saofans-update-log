@@ -2,7 +2,34 @@
 
 ---
 
-##v.4.1 — Guilds Update :beginner:
+##v.5 — Server Update (17.07.2020)
+
+- **Reach goal!** 🥳
+  We get 100 members! Thank you all for your support!
+  New goal: 200 members. Invite your friends.
+  Our invite link: https://discord.io/saofans
+
+- **Redesign <#718539756882886708>!** 🌎
+  Now all roles choosing move to <#718539756882886708>. Cool!
+
+- **Events now available!** 🎁
+  Check <#732651124506492938> and stay tuned for new Argo events 😉
+
+- **\*Guild rules!** 🛡
+  You can check here: <#718538031711387769>
+
+- **Other anime discussion** 📺
+  Want discuss other animes? Now you can do this in anime chat!
+
+- **New @Co-owner!**
+  So, we have new co-owner: <@726888709835718756> 🥳
+  We're believe in you that you can help owner make this server better and more comfortable 🙂
+
+🔧 **Other bugs fixed** 🐞
+
+---
+
+##v.4.1 — Guilds Update :beginner: (09.07.2020)
 
 - **Guild Groups now available!** :beginner:
   Now you can form guild up to 10 members! It's a private categories where you can create own channels, own rules (they can't breakout main server <#718538031711387769>) and have fun :partying_face:
@@ -151,6 +178,6 @@
 
 ---
 
-##v.1 (07.06.2020)
+##v.1 (07.06.2020)##
 
 - Server are open for @everyone!

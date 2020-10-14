@@ -1,0 +1,22 @@
+{
+  "version": 3,
+  "backups": [
+    {
+      "name": "update 5",
+      "webhookUrl": "https://discordapp.com/api/webhooks/719139657958293514/_H3eT3VWFW0Gq58QHMvxAOsDYS5dznpmGaJ1psgT6clv1iNcnfv0BR4KH8-x0t-QUv0c",
+      "message": {
+        "content": "@everyone",
+        "embeds": [
+          {
+            "title": "Server updated to v.5 — Server Update",
+            "description": "**Whats new?**\n\n+ **__Reach goal!__** 🥳\nWe get 100 members! Thank you all for your support!\nNew goal: 200 members. Invite your friends. \nOur invite link: https://discord.io/saofans\n\n+ **__Redesign <#718539756882886708>!__** 🌎\nNow all roles choosing move to <#718539756882886708>. Cool!\n\n+ **__Events now available!__** 🎁\nCheck <#732651124506492938> and stay tuned for new Argo events 😉\n\n+ **__Guild rules!__** 🛡\nYou can check here: <#718538031711387769>\n\n+ __**Other anime discussion**__ 📺\nWant discuss other animes? Now you can do this in anime chat!\n\n+ **__New @Co-owner!__**\nSo, we have new co-owner: <@726888709835718756> 🥳\nWe're believe in you that you can help owner make this server better and more comfortable 🙂\n\n🔧 **__Other bugs fixed__** 🐞\n\n> You know how make server better? <@&718500117660958770> are waiting for you here — <#718535990771318906>\n> If you found bug please write here — <#718536211953745941>\n> Have question? Write here — <#718536569199525958>\n> Want to become Moderator/Administrator? Write `%apply` here —  <#718536569199525958>\n\n**Our official invite link: https://discord.io/saofans**\n\nStay cool! 😎",
+            "color": 1746708,
+            "image": {
+              "url": "https://pbs.twimg.com/media/C7ElGwXWwAARQlU.jpg"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

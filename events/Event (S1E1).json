@@ -1,0 +1,22 @@
+{
+  "version": 3,
+  "backups": [
+    {
+      "name": "Event (S1E1)",
+      "webhookUrl": "https://ptb.discordapp.com/api/webhooks/732651429201838090/H0UnPCUcryq7PeDLYdjcX1DF76ph_0A0fVPRApOiEmtksvfa3YCh1ECzs4GLJvJzbt4L",
+      "message": {
+        "content": "@everyone",
+        "embeds": [
+          {
+            "title": "Anime Premiere Event :gift:",
+            "description": "Hello! :wave:\n\nWith releasing Sword Art Online: Alicization Lycoris and Sword Art Online: Alicization - War of Underworld, launching event for everyone!\n\nFrom July 14 to July 24 every user will give **100** XP/message :confetti_ball: (default — 10 XP/message)\nBe active in server and invite new members!\n\n**Event:** Anime Premiere Event\n**Date:** July 14 — July 24\n**Task:** Be active in server and invite new friends\n**Reward** 100 XP/message\n\nBest wishes,\n𝒜𝓇𝑔𝑜\n",
+            "color": 228886,
+            "image": {
+              "url": "https://www.awn.com/sites/default/files/styles/original/public/image/featured/sword_art_online_keyart-1280x720.jpg?itok=sUwFssuh"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
