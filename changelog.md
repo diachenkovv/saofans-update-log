@@ -2,6 +2,31 @@
 
 ---
 
+## v.7.2 — Security Update 🛡
+
+- **We have 3rd level of boosting!** 💎
+  Now you can:
+
+  > - Upload to 100 Mb files;
+  > - 384 kbit
+  > - - 100 slots for emoji (now 250)
+  > - Custom URL invite link
+  >   **But we will lose this after 5 days. We need 4 boosters**
+
+- **Reached members goal!** 👥
+  Now we have 200 members! New goal: 250
+
+- **Quarantine for ~~COVID-19~~ offenders!** ☣
+  Now who get role <@747646694874677289> can contact with admins in <#747763977425256458> (Slow mode: 1 minute or more)
+
+- **Moderators now can block offenders!** 🚯
+  With the last situation now moderators can give banhammer for "good" members
+
+- **Server now has Twitter page!** 🐦
+  You have problems with Discord? Lose access to your account or server become unavailable cuz problems with servers? Now we have Twitter page where you can get last information, contact via DM and get last server news. Follow: https://twitter.com/saofans_en
+
+## 🔧 **Other bugs fixed** 🐞
+
 ## v.7.1 — Creators Update
 
 - **GIFs channels now available!** 🎏

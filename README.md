@@ -1,30 +1,27 @@
-# Server updated to v.7.1 — Creators Update
+# Server updated to v.7.2 — Security Update 🛡
 
 ## What's new?
 
-- **GIFs channels now available!** 🎏
-  Now you can share [#〖🎏〗sao-gifs](#745709271261511790) and [#〖🎏〗anime-gifs](#745709481840738485)
+- **We have 3rd level of boosting!** 💎
+  Now you can:
 
-- **Exclusive fanfics now here!** 📔
-  Are you writing own SAO fanfics? Share with everyone! Publish your fanfics here: [#〖📔〗sao-fanfics](#746032382095654992)
+  > - Upload to 100 Mb files;
+  > - 384 kbit
+  > - - 100 slots for emoji (now 250)
+  > - Custom URL invite link
+  >   **But we will lose this after 5 days. We need 4 boosters**
 
-- **New guild available!** 🔰
-  We have new guild: [@Knight of the Blood Oath](@&746013641073229866)! Join here [#〖🧭〗link-start](#718539756882886708)
+- **Reached members goal!** 👥
+  Now we have 200 members! New goal: 250
 
-- **SAO Talk Podcast** 📻
-  Did you know that [@Asuna-san💍](@738079659211620473) has own podcast? No? You can hear and follow on [Spotify](https://open.spotify.com/show/7JqQMuzBbRD8j5S9essusa) and [Anchor](https://anchor.fm/yuuki-asuna0418/)
-  So, you can leave your idea for nexp episodes here: [#〖📻〗sao-podcast](#746731991675961404)
+- **Quarantine for ~~COVID-19~~ offenders!** ☣
+  Now who get role <@747646694874677289> can contact with admins in <#747763977425256458> (Slow mode: 1 minute or more)
 
-- **What time is it?** ⌚
-  You need all time ask others what time is it? Now you don't need do! Just check time here (also you can add yourself without registration: just enter you Discord#0001 and upload profile pic):
-  https://whena.re/saofans-discord-server
+- **Moderators now can block offenders!** 🚯
+  With the last situation now moderators can give banhammer for "good" members
 
-- **Pinned messages!** 📌
-  Don't forget check pinned messages in different channels
-
-- **Goodbye, @Russian** 👋
-  Russian category more not available. <@&718500010852876350> can see only <#745716039643430923> with invite link
-  Global role renamed to [@Players](@&718499980188319744)
+- **Server now has Twitter page!** 🐦
+  You have problems with Discord? Lose access to your account or server become unavailable cuz problems with servers? Now we have Twitter page where you can get last information, contact via DM and get last server news. Follow: https://twitter.com/saofans_en
 
 🔧 **Other bugs fixed** 🐞
 
@@ -37,4 +34,4 @@
 **Official Russian invite link: https://discord.io/saofans_ru**
 
 Stay cool! 😎
-![picture](https://cutewallpaper.org/21/sword-art-online-4k-wallpaper/55-Sword-Art-Online-Wallpapers-Download-at-WallpaperBro.jpg)
+![picture](https://cdn.wallpapersafari.com/71/8/r9ktJC.jpg)

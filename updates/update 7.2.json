@@ -1,0 +1,22 @@
+{
+  "version": 3,
+  "backups": [
+    {
+      "name": "update 7.2",
+      "webhookUrl": "https://discordapp.com/api/webhooks/719139657958293514/_H3eT3VWFW0Gq58QHMvxAOsDYS5dznpmGaJ1psgT6clv1iNcnfv0BR4KH8-x0t-QUv0c",
+      "message": {
+        "content": "@everyone",
+        "embeds": [
+          {
+            "title": "Server updated to v.7.2 — Security Update 🛡",
+            "description": "**What's new?**\n\n+ **__We have 3rd level of boosting!__** 💎\nNow you can:\n* Upload to 100 Mb files;\n* 384 kbit\n* + 100 slots for emoji (now 250)\n* Custom URL invite link\n> **But we will lose this after 5 days. We need 4 boosters**\n\n+ **__Reached members goal!__** 👥\nNow we have 200 members! New goal: 250\n\n+ **__Quarantine for ~~COVID-19~~ offenders!__** ☣\nNow who get role <@747646694874677289> can contact with admins in <#747763977425256458> (Slow mode: 1 minute or more)\n\n+ __**Moderators now can block offenders!**__ 🚯\nWith the last situation now moderators can give banhammer for \"good\" members\n\n+ __**Server now has Twitter page!**__ 🐦\nYou have problems with Discord? Lose access to your account or server become unavailable cuz problems with servers? Now we have Twitter page where you can get last information, contact via DM and get last server news. Follow: https://twitter.com/saofans_en\n\n🔧 **__Other bugs fixed__** 🐞\n\n> You know how make server better? <@&718500117660958770> are waiting for you here — <#718535990771318906>\n> If you found bug please write here — <#718536211953745941>\n> Have question? Write here — <#718536569199525958>\n> Want to become Server Staff? Write `%apply` here —  <#718536569199525958>\n\n**Our official invite link: https://discord.gg/saofans**\n**Official Russian invite link: https://discord.io/saofans_ru**\n\nStay cool! 😎",
+            "color": 1746708,
+            "image": {
+              "url": "https://cdn.wallpapersafari.com/71/8/r9ktJC.jpg"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
