@@ -1,6 +1,6 @@
-#Server updated to v.7 — Summer Update
+# Server updated to v.7 — Summer Update
 
-##What's new?
+## What's new?
 
 - **Launched Russian server Sword Art Online!** 🥳
   From main server was separate Russian category and now russian members has own community!
