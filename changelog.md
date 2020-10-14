@@ -1,8 +1,38 @@
-#Change log
+# Change log
 
 ---
 
-##v.7 — Summer Update (15.08.2020)
+## v.7.1 — Creators Update
+
+- **GIFs channels now available!** 🎏
+  Now you can share [#〖🎏〗sao-gifs](#745709271261511790) and [#〖🎏〗anime-gifs](#745709481840738485)
+
+- **Exclusive fanfics now here!** 📔
+  Are you writing own SAO fanfics? Share with everyone! Publish your fanfics here: [#〖📔〗sao-fanfics](#746032382095654992)
+
+- **New guild available!** 🔰
+  We have new guild: [@Knight of the Blood Oath](@&746013641073229866)! Join here [#〖🧭〗link-start](#718539756882886708)
+
+- **SAO Talk Podcast** 📻
+  Did you know that [@Asuna-san💍](@738079659211620473) has own podcast? No? You can hear and follow on [Spotify](https://open.spotify.com/show/7JqQMuzBbRD8j5S9essusa) and [Anchor](https://anchor.fm/yuuki-asuna0418/)
+  So, you can leave your idea for nexp episodes here: [#〖📻〗sao-podcast](#746731991675961404)
+
+- **What time is it?** ⌚
+  You need all time ask others what time is it? Now you don't need do! Just check time here (also you can add yourself without registration: just enter you Discord#0001 and upload profile pic):
+  https://whena.re/saofans-discord-server
+
+- **Pinned messages!** 📌
+  Don't forget check pinned messages in different channels
+
+- **Goodbye, @Russian** 👋
+  Russian category more not available. <@&718500010852876350> can see only <#745716039643430923> with invite link
+  Global role renamed to [@Players](@&718499980188319744)
+
+🔧 **Other bugs fixed** 🐞
+
+---
+
+## v.7 — Summer Update (15.08.2020)
 
 - **Launched Russian server Sword Art Online!** 🥳
   From main server was separate Russian category and now russian members has own community!
@@ -34,7 +64,7 @@
 
 ---
 
-##v.6 — Community Update (01.08.2020)
+## v.6 — Community Update (01.08.2020)
 
 - **We reached 2nd boosting level!** 🥳
   Guys, you're amazing! Thank you very mush for supporting!
@@ -78,7 +108,7 @@
 
 ---
 
-##v.5 — Server Update (17.07.2020)
+## v.5 — Server Update (17.07.2020)
 
 - **Reach goal!** 🥳
   We get 100 members! Thank you all for your support!
@@ -105,7 +135,7 @@
 
 ---
 
-##v.4.1 — Guilds Update :beginner: (09.07.2020)
+## v.4.1 — Guilds Update :beginner: (09.07.2020)
 
 - **Guild Groups now available!** :beginner:
   Now you can form guild up to 10 members! It's a private categories where you can create own channels, own rules (they can't breakout main server <#718538031711387769>) and have fun :partying_face:
@@ -132,7 +162,7 @@
 
 ---
 
-##v.4 — Discord Update 🆙 (01.07.2020)
+## v.4 — Discord Update 🆙 (01.07.2020)
 
 - **Redesign <#727878742461906984>** :paintbrush:
   Welcome channel has new welcome message for new members. Here you can change server region (or choose both)
@@ -160,7 +190,7 @@
 
 ---
 
-##v.3 Major Update 🆙 (28.06.2020)
+## v.3 Major Update 🆙 (28.06.2020)
 
 - **Added category "Music Zone"** 🎶
   Sharing amazing music — <#726842319977971764>
@@ -190,7 +220,7 @@
 
 ---
 
-##v.2.2 Art Update :art: (25.06.2020)
+## v.2.2 Art Update :art: (25.06.2020)
 
 - **Added category "Arts and Pictures"**
   Now pictures has own category! Yeyyy :partying_face:
@@ -205,7 +235,7 @@
 
 ---
 
-##v.2.1 **Gaming Update** (22.06.2020)
+## v.2.1 **Gaming Update** (22.06.2020)
 
 - **New roles here!**
   Now you can choose platform, where you play (\*warning: this role will be **pinged\***)
@@ -223,7 +253,7 @@
 
 ---
 
-##v.2 (18.06.2020)
+## v.2 (18.06.2020)
 
 - **New roles here!**
   Admins, Moderators and Staff help with server
@@ -238,7 +268,7 @@
 
 ---
 
-##v.1.1 (10.06.2020)
+## v.1.1 (10.06.2020)
 
 - **Added channel <#720209953759035434>**
 - **Added channel <#720209953759035434>**
@@ -254,6 +284,6 @@
 
 ---
 
-##v.1 (07.06.2020)##
+## v.1 (07.06.2020)##
 
 - Server are open for @everyone!

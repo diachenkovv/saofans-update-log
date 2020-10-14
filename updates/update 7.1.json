@@ -1,0 +1,22 @@
+{
+  "version": 3,
+  "backups": [
+    {
+      "name": "update 7.1",
+      "webhookUrl": "https://discordapp.com/api/webhooks/719139657958293514/_H3eT3VWFW0Gq58QHMvxAOsDYS5dznpmGaJ1psgT6clv1iNcnfv0BR4KH8-x0t-QUv0c",
+      "message": {
+        "content": "@everyone",
+        "embeds": [
+          {
+            "title": "Server updated to v.7.1 — Creators Update",
+            "description": "**What's new?**\n\n+ **__GIFs channels now available!__** 🎏\nNow you can share <#745709271261511790> and <#745709481840738485>\n\n+ **__Exclusive fanfics now here!__** 📔\nAre you writing own SAO fanfics? Share with everyone! Publish your fanfics here: <#746032382095654992>\n\n+ **__New guild available!__** 🔰\nWe have new guild: <@&746013641073229866>! Join here <#718539756882886708>\n\n+ __**SAO Talk Podcast**__ 📻\nDid you know that <@738079659211620473> has own podcast? No? You can hear and follow on [Spotify](https://open.spotify.com/show/7JqQMuzBbRD8j5S9essusa) and [Anchor](https://anchor.fm/yuuki-asuna0418/)\nSo, you can leave your idea for nexp episodes here: <#746731991675961404>\n\n+ **__What time is it?__** ⌚\nYou need all time ask others what time is it? Now you don't need do! Just check time here (also you can add yourself without registration: just enter you Discord#0001 and upload profile pic): \nhttps://whena.re/saofans-discord-server\n\n+ **__Pinned messages!__** 📌\nDon't forget check pinned messages in different channels\n\n+ **__Goodbye, @Russian__** 👋\nRussian category more not available. <@&718500010852876350> can see only <#745716039643430923> with invite link\nGlobal role renamed to <@&718499980188319744>\n\n🔧 **__Other bugs fixed__** 🐞\n\n> You know how make server better? <@&718500117660958770> are waiting for you here — <#718535990771318906>\n> If you found bug please write here — <#718536211953745941>\n> Have question? Write here — <#718536569199525958>\n> Want to become Server Staff? Write `%apply` here —  <#718536569199525958>\n\n**Our official invite link: https://discord.io/saofans**\n**Official Russian invite link: https://discord.io/saofans_ru**\n\nStay cool! 😎",
+            "color": 1746708,
+            "image": {
+              "url": "https://cutewallpaper.org/21/sword-art-online-4k-wallpaper/55-Sword-Art-Online-Wallpapers-Download-at-WallpaperBro.jpg"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
