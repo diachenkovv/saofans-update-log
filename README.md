@@ -1,27 +1,26 @@
-# Server updated to v.7.2 — Security Update 🛡
+# Server updated to v.7.3 — Patch Update 🛠
 
 ## What's new?
 
 - **We have 3rd level of boosting!** 💎
   Now you can:
 
-  > - Upload to 100 Mb files;
-  > - 384 kbit/s in voice chats
-  > - 100 slots for emoji (now 250)
-  > - Custom URL invite link
-  >   **But we will lose this after 5 days. We need 4 boosters**
+* Upload to 100 Mb files;
+* Sound quality in voice chats - <384 kbit
+* 100 slots for emoji (now 250)
+* Custom URL invite link
 
-- **Reached members goal!** 👥
-  Now we have 200 members! New goal: 250
+- **I want this emoji!** 😁
+  We launched channel <#753660231396884610>! Send square PNG or GIF (<256 Kb) emoji suggestions!
 
-- **Quarantine for ~~COVID-19~~ offenders!** ☣
-  Now who get role <@747646694874677289> can contact with admins in <#747763977425256458> (Slow mode: 1 minute or more)
+- **Server Staff Rank-up applications open!** 🆙
+  After raids quarantine applications again open! (Now only for rank-up, for Moderators applications will be open soon, stay tune)
 
-- **Moderators now can block offenders!** 🚯
-  With the last situation now moderators can give banhammer for "good" members
+- **Updated banners and server icon!** 🖼
+  With autumn updated banners and icon! Have suggestions for banners and icon? Send to <#718535990771318906> channel (with description: invite banner (16:9, at least 1366x768), server banner (16:9 at least 1366x769), or server icon (1:1 at least 500x500)
 
-- **Server now has Twitter page!** 🐦
-  You have problems with Discord? Lose access to your account or server become unavailable cuz problems with servers? Now we have Twitter page where you can get last information, contact via DM and get last server news. Follow: https://twitter.com/saofans_en
+- **New members verification!** ✒
+  Now new members should verify their accounts here <#749960377864814643>. If you want generate invite link - use this channel. Other channels new members without verifications can't see! Or use this link - https://discord.gg/saofans
 
 🔧 **Other bugs fixed** 🐞
 
@@ -30,8 +29,11 @@
 > Have question? Write here — [#〖📠〗feedback](#718536569199525958)  
 > Want to become Server Staff? Write `%apply` here — [#〖📠〗feedback](#718536569199525958)
 
-**Our official invite link: https://discord.io/saofans**  
+**Our official invite link: https://discord.gg/saofans**  
+**Twitter page: https://twitter.com/saofans_en**  
 **Official Russian invite link: https://discord.io/saofans_ru**
 
-Stay cool! 😎  
-![picture](https://addons-media.operacdn.com/media/CACHE/images/themes/85/181085/1.0-rev1/images/a595a850-4cc8-4482-898e-48ccffea4b89/c1e4ad3210aac40a79408a9703773852.jpg)
+Stay safe! 😷
+
+_P.S. New school year began, so server became less active_
+![picture](https://d2halst20r4hcy.cloudfront.net/ff4/db733/d334/4005/b8b2/bef948033991/original/4979267.png)

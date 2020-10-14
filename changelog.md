@@ -2,6 +2,32 @@
 
 ---
 
+## v.7.3 — Patch Update 🛠
+
+- **We have 3rd level of boosting!** 💎
+  Now you can:
+
+* Upload to 100 Mb files;
+* Sound quality in voice chats - <384 kbit
+* 100 slots for emoji (now 250)
+* Custom URL invite link
+
+- **I want this emoji!** 😁
+  We launched channel <#753660231396884610>! Send square PNG or GIF (<256 Kb) emoji suggestions!
+
+- **Server Staff Rank-up applications open!** 🆙
+  After raids quarantine applications again open! (Now only for rank-up, for Moderators applications will be open soon, stay tune)
+
+- **Updated banners and server icon!** 🖼
+  With autumn updated banners and icon! Have suggestions for banners and icon? Send to <#718535990771318906> channel (with description: invite banner (16:9, at least 1366x768), server banner (16:9 at least 1366x769), or server icon (1:1 at least 500x500)
+
+- **New members verification!** ✒
+  Now new members should verify their accounts here <#749960377864814643>. If you want generate invite link - use this channel. Other channels new members without verifications can't see! Or use this link - https://discord.gg/saofans
+
+🔧 **Other bugs fixed** 🐞
+
+---
+
 ## v.7.2 — Security Update 🛡 (27.08.2020)
 
 - **We have 3rd level of boosting!** 💎
