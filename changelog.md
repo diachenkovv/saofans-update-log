@@ -2,7 +2,7 @@
 
 ---
 
-## v.7.2 — Security Update 🛡
+## v.7.2 — Security Update 🛡 (27.08.2020)
 
 - **We have 3rd level of boosting!** 💎
   Now you can:
@@ -27,7 +27,7 @@
 
 ## 🔧 **Other bugs fixed** 🐞
 
-## v.7.1 — Creators Update
+## v.7.1 — Creators Update (22.08.2020)
 
 - **GIFs channels now available!** 🎏
   Now you can share [#〖🎏〗sao-gifs](#745709271261511790) and [#〖🎏〗anime-gifs](#745709481840738485)

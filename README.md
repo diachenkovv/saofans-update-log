@@ -7,7 +7,7 @@
 
   > - Upload to 100 Mb files;
   > - 384 kbit
-  > - - 100 slots for emoji (now 250)
+  > - 100 slots for emoji (now 250)
   > - Custom URL invite link
   >   **But we will lose this after 5 days. We need 4 boosters**
 
@@ -25,13 +25,13 @@
 
 🔧 **Other bugs fixed** 🐞
 
-> You know how make server better? [@Admins](@&718500117660958770) are waiting for you here — [#〖📑〗suggestions](#718535990771318906)
-> If you found bug please write here — [#〖🐞〗bugs](#718536211953745941)
-> Have question? Write here — [#〖📠〗feedback](#718536569199525958)
+> You know how make server better? [@Admins](@&718500117660958770) are waiting for you here — [#〖📑〗suggestions](#718535990771318906)  
+> If you found bug please write here — [#〖🐞〗bugs](#718536211953745941)  
+> Have question? Write here — [#〖📠〗feedback](#718536569199525958)  
 > Want to become Server Staff? Write `%apply` here — [#〖📠〗feedback](#718536569199525958)
 
 **Our official invite link: https://discord.io/saofans**
 **Official Russian invite link: https://discord.io/saofans_ru**
 
 Stay cool! 😎
-![picture](https://cdn.wallpapersafari.com/71/8/r9ktJC.jpg)
+![picture](https://addons-media.operacdn.com/media/CACHE/images/themes/85/181085/1.0-rev1/images/a595a850-4cc8-4482-898e-48ccffea4b89/c1e4ad3210aac40a79408a9703773852.jpg)
