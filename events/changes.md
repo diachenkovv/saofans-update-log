@@ -17,7 +17,7 @@
 
 **Event:** Drawing Event
 **Date:** October 16 — October 31
-**Task:** Draw **Sword Art Online Halloween** pic and publish to \* [〖🎃〗halloween](`<#764917567063851008>`)
+**Task:** Draw **Sword Art Online Halloween** pic and publish to [〖🎃〗halloween](`<#764917567063851008>`)
 **Reward:**
 
 - 1st place — **Discord Nitro (with 2 boosts)**
