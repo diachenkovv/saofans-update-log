@@ -22,14 +22,15 @@
   > - Invite link
   >   Or just enter `%register`
 
-> **Attention! ⚠ ** > _You can't see channel history, so carefully enter information_
+> **Attention! ⚠**  
+> _You can't see channel history, so carefully enter information_
 
 - **Applications now have separate category!** 📁
   Now channels with applications have separate category. Now available:
 
-* [#〖🔰〗guild-applications](`<#730830601887940649>`)
-* [#〖🤝〗partnership](`<#757658057609314325>`)
-* [#〖😎〗server-staff](`<#757664029664739339>`)
+  - [#〖🔰〗guild-applications](`<#730830601887940649>`)
+  - [#〖🤝〗partnership](`<#757658057609314325>`)
+  - [#〖😎〗server-staff](`<#757664029664739339>`)
 
 - **I want good playlists!** 🎧
   Channel with playlists for your streaming service you can find here: [#〖🎼〗playlists](`<#757651823585919106>`)
@@ -47,10 +48,10 @@
 - **We have 3rd level of boosting!** 💎
   Now you can:
 
-* Upload to 100 Mb files;
-* Sound quality in voice chats - <384 kbit
-* 100 slots for emoji (now 250)
-* Custom URL invite link
+  - Upload to 100 Mb files;
+  - Sound quality in voice chats - <384 kbit
+  - 100 slots for emoji (now 250)
+  - Custom URL invite link
 
 - **I want this emoji!** 😁
   We launched channel <#753660231396884610>! Send square PNG or GIF (<256 Kb) emoji suggestions!
@@ -73,11 +74,11 @@
 - **We have 3rd level of boosting!** 💎
   Now you can:
 
-  > - Upload to 100 Mb files;
-  > - 384 kbit
-  > - - 100 slots for emoji (now 250)
-  > - Custom URL invite link
-  >   **But we will lose this after 5 days. We need 4 boosters**
+  - Upload to 100 Mb files;
+  - 384 kbit
+  - 100 slots for emoji (now 250)
+  - Custom URL invite link
+    > **But we will lose this after 5 days. We need 4 boosters**
 
 - **Reached members goal!** 👥
   Now we have 200 members! New goal: 250
@@ -161,10 +162,10 @@
   Guys, you're amazing! Thank you very mush for supporting!
   Now we can:
 
-> - Upload files up to 50 Mb
-> - Go Live 1080p/60 FPS
-> - have up to 150 emotes
-> - Sound quality 256 kbit/sec
+  - Upload files up to 50 Mb
+  - Go Live 1080p/60 FPS
+  - have up to 150 emotes
+  - Sound quality 256 kbit/sec
 
 - **New <#718538031711387769>!** 📜
   Rules updated. And now server staff become more strict to breakout rules. Also for staff created <#739096929795047465>
@@ -175,19 +176,19 @@
 - **Anime Zone** 📺
   Want discuss other anime? Now Anime Zone available! Now you can upload:
 
-> - <#739104596433305600>
-> - <#725495453944381560> — requirements: resolution at least 1366x768 and more. Others pics will be delete
-> - <#720046100089798719>
-> - <#739113567210569750>
->   And also <#731261367247437964> for discussion 😉
+  - <#739104596433305600>
+  - <#725495453944381560> — requirements: resolution at least 1366x768 and more. Others pics will be delete
+  - <#720046100089798719>
+  - <#739113567210569750>
+  - And also <#731261367247437964> for discussion 😉
 
 - **Pictures and AMV!** 🖼
   You can check here:
 
-> - <#718526108823322655>
-> - <#720729412244340807> — requirements: resolution 1366x768 and more, 16:9 / 9:16 and more
-> - <#739105179424784505>
-> - <#739113162787389570>
+  - <#718526108823322655>
+  - <#720729412244340807> — requirements: resolution 1366x768 and more, 16:9 / 9:16 and more
+  - <#739105179424784505>
+  - <#739113162787389570>
 
 - **Now we are Community Server!** 👥
   Now we have announcements channels, welcome screen and more instruments for moderating!
@@ -266,9 +267,10 @@
 
 - **Time for music!** <:Spotify:723644091996307556>
   Want make party? Use <@252128902418268161> in "Music Zone"!
-  <#727878742461906984> — leave links to songs/albums/playlists
-  <#727878742461906984> — talking with <@252128902418268161> (prefix `!`)
-  Music Channel — listening Music
+
+  - <#727878742461906984> — leave links to songs/albums/playlists
+  - <#727878742461906984> — talking with <@252128902418268161> (prefix `!`)
+  - Music Channel — listening Music
 
 - **Eli now... Yui!** <:YuiHugs:722537785650839623>
   Eli bot in our server calls Yui and has new prefix `yui`

@@ -20,14 +20,15 @@
   > - Invite link
   >   Or just enter `%register`
 
-> **Attention! ⚠ ** > _You can't see channel history, so carefully enter information_
+> **Attention! ⚠**  
+> _You can't see channel history, so carefully enter information_
 
 - **Applications now have separate category!** 📁
   Now channels with applications have separate category. Now available:
 
-* [#〖🔰〗guild-applications](`<#730830601887940649>`)
-* [#〖🤝〗partnership](`<#757658057609314325>`)
-* [#〖😎〗server-staff](`<#757664029664739339>`)
+  - [#〖🔰〗guild-applications](`<#730830601887940649>`)
+  - [#〖🤝〗partnership](`<#757658057609314325>`)
+  - [#〖😎〗server-staff](`<#757664029664739339>`)
 
 - **I want good playlists!** 🎧
   Channel with playlists for your streaming service you can find here: [#〖🎼〗playlists](`<#757651823585919106>`)
@@ -54,6 +55,6 @@ Stay safe! 😷
 _P.S. New event will be launch very soon 😉
 Best wishes, 𝒜𝓇𝑔𝑜_
 
-_P.P.S. Sorry guys that [@Kirigaya Kazuto](`<@384090776075763732>`) was so inactive last days. Betrayal from "friends" and grandmother death can't allow him be active. Please support him and [@Server Staff](`<@&743143586006040658>`) please help him keep server in cleanliness and order.
+_P.P.S. Sorry guys that [@Kirigaya Kazuto](`<@384090776075763732>`) was so inactive last days. Betrayal from "friends" and grandmother death can't allow him be active. Please support him and [@Server Staff](`<@&743143586006040658>`) please help him keep server in cleanliness and order.  
 Thank you! You're the best! ❤_
 ![picture](https://artfiles.alphacoders.com/839/83908.jpg)
