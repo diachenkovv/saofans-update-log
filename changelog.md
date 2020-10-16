@@ -69,7 +69,7 @@
 - **New guild available!** 🔰
   [@Reckless Squad](`<@&757665009886036060>`) guild now available!
 
-## 🔧 **Other bugs fixed** 🐞
+🔧 **Other bugs fixed** 🐞
 
 ## v.7.3 — Patch Update 🛠 (10.09.2020)
 
@@ -120,7 +120,7 @@
 - **Server now has Twitter page!** 🐦
   You have problems with Discord? Lose access to your account or server become unavailable cuz problems with servers? Now we have Twitter page where you can get last information, contact via DM and get last server news. Follow: https://twitter.com/saofans_en
 
-## 🔧 **Other bugs fixed** 🐞
+🔧 **Other bugs fixed** 🐞
 
 ## v.7.1 — Creators Update (22.08.2020)
 
