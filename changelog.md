@@ -2,7 +2,35 @@
 
 ---
 
-### v.8 — Autumn Update 🍁
+### v.9 — Fun Update 🃏 (02.10.2020)
+
+- **Finally! Game bot!** 🃏
+  AniGame bot now available in our server! 🥳
+  Channel for AniGame — [#〖🃏〗games](`<#761645256542126121>`)
+  Prefix: `$`
+
+- **Minasan, здравий! Ich bin je parle українською!** 🌍
+  Want speak in your primary language? Now you can! Use [#〖🌍〗worldwide-chat](`<#761644726642147378>`)! 🎎
+
+- **Do you anyone know link to SAO Manga?** 🔗
+  Yes, now we have! Share with useful links here — [#〖🔗〗useful-links](`<#761649747798523954>`)
+
+  > For +18 content links use [#〖🔞〗nsfw-chat](`<#734817461450440716>`)
+
+- **I found cool pics for our server!** 🖼
+  Leave nice pics for server here: [#〖🎴〗server-pics](`<#761645468840886272>`)
+
+- **New server pics!** 🎨
+  Icon, invite banner and server banner updated!
+
+- **Other stuff!** 📦
+  Updated some channels icons
+
+🔧 **Other bugs fixed** 🐞
+
+---
+
+### v.8 — Autumn Update 🍁 (21.09.2020)
 
 - **I'm a boy/girl!** 🚻
   Yayy, finally you can choose gender and avoid misunderstanding situation!
@@ -43,7 +71,7 @@
 
 ## 🔧 **Other bugs fixed** 🐞
 
-## v.7.3 — Patch Update 🛠
+## v.7.3 — Patch Update 🛠 (10.09.2020)
 
 - **We have 3rd level of boosting!** 💎
   Now you can:

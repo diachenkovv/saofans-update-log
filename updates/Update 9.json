@@ -1,0 +1,22 @@
+{
+  "version": 3,
+  "backups": [
+    {
+      "name": "Update 9",
+      "webhookUrl": "https://discordapp.com/api/webhooks/719139657958293514/_H3eT3VWFW0Gq58QHMvxAOsDYS5dznpmGaJ1psgT6clv1iNcnfv0BR4KH8-x0t-QUv0c",
+      "message": {
+        "content": "@everyone",
+        "embeds": [
+          {
+            "title": "Server updated to v.9 — Fun Update 🃏",
+            "description": "**What's new?**\n\n+ **__Finally! Game bot!__** 🃏\nAniGame bot now available in our server! 🥳\nChannel for AniGame — <#761645256542126121>\nPrefix: `$`\n\n+ **__Minasan, здравий! Ich bin je parle українською!__** 🌍\nWant speak in your primary language? Now you can! Use <#761644726642147378>! 🎎\n\n+ **__Do you anyone know link to SAO Manga?__** 🔗\nYes, now we have! Share with useful links here — <#761649747798523954>\n||For +18 content links use <#734817461450440716>||\n\n+ **__I found cool pics for our server!__** 🖼\nLeave nice pics for server here: <#761645468840886272>\n\n+ **__New server pics!__** 🎨\nIcon, invite banner and server banner updated!\n\n+ **__Other stuff!__** 📦\nUpdated some channels icons\n\n🔧 **__Other bugs fixed__** 🐞\n\n> You know how make server better? <@&718500117660958770> are waiting for you here — <#718535990771318906>\n> If you found bug please write here — <#718536211953745941>\n> Have question? Write here — <#718536569199525958>\n> Want to become Server Staff? Write `%apply` here —  <#757664029664739339>\n\n**Our official invite link: https://discord.gg/saofans**\n**Twitter page: https://twitter.com/saofans_en**\n\nStay safe! 😷\n\n*P.S. New event will be launch today-tomorrow. Sorry for long waiting 😓\nBest wishes, 𝒜𝓇𝑔𝑜*\n",
+            "color": 1746708,
+            "image": {
+              "url": "https://i.pinimg.com/564x/2a/53/9a/2a539a1fbcbad4988ed322a30c30b1aa.jpg"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,50 +1,35 @@
-# Server updated to v.8 — Autumn Update 🍁
+# Server updated to v.9 — Fun Update 🃏
 
 ## What's new?
 
-- **I'm a boy/girl!** 🚻
-  Yayy, finally you can choose gender and avoid misunderstanding situation!
+- **Finally! Game bot!** 🃏
+  AniGame bot now available in our server! 🥳
+  Channel for AniGame — [#〖🃏〗games](`<#761645256542126121>`)
+  Prefix: `$`
 
-- **Selfie, please!** 🤳
-  Want make face reveal? Now you can! [#〖🤳〗selfies](`<#757649999650750745>`) waiting for you!
+- **Minasan, здравий! Ich bin je parle українською!** 🌍
+  Want speak in your primary language? Now you can! Use [#〖🌍〗worldwide-chat](`<#761644726642147378>`)! 🎎
 
-- **Fanfics for other anime? Now can share!** 📔
-  Share your fanfics from others anime here [#〖📔〗anime-fanfics](`<#757653154102902794>`)
+- **Do you anyone know link to SAO Manga?** 🔗
+  Yes, now we have! Share with useful links here — [#〖🔗〗useful-links](`<#761649747798523954>`)
 
-- **Partnership needed!** ✍
-  Want make partnership? Leave your application here [#〖🤝〗partnership](`<#757658057609314325>`)
-  > Application should have:
-  >
-  > - Owner's Discord username
-  > - Descriprion
-  > - Invite link
-  >   Or just enter `%register`
+  > For +18 content links use [#〖🔞〗nsfw-chat](`<#734817461450440716>`)
 
-> **Attention! ⚠**  
-> _You can't see channel history, so carefully enter information_
+- **I found cool pics for our server!** 🖼
+  Leave nice pics for server here: [#〖🎴〗server-pics](`<#761645468840886272>`)
 
-- **Applications now have separate category!** 📁
-  Now channels with applications have separate category. Now available:
+- **New server pics!** 🎨
+  Icon, invite banner and server banner updated!
 
-  - [#〖🔰〗guild-applications](`<#730830601887940649>`)
-  - [#〖🤝〗partnership](`<#757658057609314325>`)
-  - [#〖😎〗server-staff](`<#757664029664739339>`)
-
-- **I want good playlists!** 🎧
-  Channel with playlists for your streaming service you can find here: [#〖🎼〗playlists](`<#757651823585919106>`)
-
-- **Other stuff** 📦
-  Channels without category will locate in Other Stuff Zone
-
-- **New guild available!** 🔰
-  [@Reckless Squad](`<@&757665009886036060>`) guild now available!
+- **Other stuff!** 📦
+  Updated some channels icons
 
 🔧 **Other bugs fixed** 🐞
 
-> You know how make server better? [@Admins](@&718500117660958770) are waiting for you here — [#〖📑〗suggestions](#718535990771318906)  
-> If you found bug please write here — [#〖🐞〗bugs](#718536211953745941)  
-> Have question? Write here — [#〖📠〗feedback](#718536569199525958)  
-> Want to become Server Staff? Write `%apply` here — [#〖📠〗feedback](#718536569199525958)
+> You know how make server better? [@Admins](`<@&718500117660958770>`) are waiting for you here — [#〖📑〗suggestions](`<#718535990771318906>`)  
+> If you found bug please write here — [#〖🐞〗bugs](`<#718536211953745941>`)  
+> Have question? Write here — [#〖📠〗feedback](`<#718536569199525958>`)  
+> Want to become Server Staff? Write `%apply` here — [#〖😎〗server-staff](`<#757664029664739339>`)
 
 **Our official invite link: https://discord.gg/saofans**  
 **Twitter page: https://twitter.com/saofans_en**  
@@ -52,9 +37,6 @@
 
 Stay safe! 😷
 
-_P.S. New event will be launch very soon 😉
-Best wishes, 𝒜𝓇𝑔𝑜_
-
-_P.P.S. Sorry guys that [@Kirigaya Kazuto](`<@384090776075763732>`) was so inactive last days. Betrayal from "friends" and grandmother death can't allow him be active. Please support him and [@Server Staff](`<@&743143586006040658>`) please help him keep server in cleanliness and order.  
-Thank you! You're the best! ❤_
-![picture](https://artfiles.alphacoders.com/839/83908.jpg)
+_P.S. New event will be launch today-tomorrow. Sorry for long waiting 😓
+Best wishes, 𝒜𝓇𝑔𝑜_  
+![picture](https://i.pinimg.com/564x/2a/53/9a/2a539a1fbcbad4988ed322a30c30b1aa.jpg)
