@@ -1,0 +1,22 @@
+{
+  "version": 3,
+  "backups": [
+    {
+      "name": "update 8",
+      "webhookUrl": "https://discordapp.com/api/webhooks/719139657958293514/_H3eT3VWFW0Gq58QHMvxAOsDYS5dznpmGaJ1psgT6clv1iNcnfv0BR4KH8-x0t-QUv0c",
+      "message": {
+        "content": "@everyone",
+        "embeds": [
+          {
+            "title": "Server updated to v.8 — Autumn Update 🍁",
+            "description": "**What's new?**\n\n+ **__I'm a boy/girl!__** 🚻\nYayy, finally you can choose gender and avoid misunderstanding situation! \n\n+ **__Selfie, please!__** 🤳\nWant make face reveal? Now you can! <#757649999650750745> waiting for you!\n\n+ **__Fanfics for other anime? Now can share!__** 📔\nShare your fanfics from others anime here <#757653154102902794>\n\n+ **__Partnership needed!__** ✍\nWant make partnership? Leave your application here <#757658057609314325>\n> Application should have:\n> * Owner's Discord username\n> * Descriprion\n> * Invite link\n> Or just enter `%register`\n\n> **Attention! ⚠ **\n> *You can't see channel history, so carefully enter information*\n\n+ __**Applications now have separate category!**__ 📁\nNow channels with applications have separate category. Now available:\n* <#730830601887940649>\n* <#757658057609314325>\n* <#757664029664739339>\n\n+ **__I want good playlists!__** 🎧\nChannel with playlists for your streaming service you can find here: <#757651823585919106>\n\n+ **__Other stuff__** 📦\nChannels without category will locate in Other Stuff Zone\n\n+ **__New guild available!__** 🔰\n<@&757665009886036060> guild now available!\n\n🔧 **__Other bugs fixed__** 🐞\n\n> You know how make server better? <@&718500117660958770> are waiting for you here — <#718535990771318906>\n> If you found bug please write here — <#718536211953745941>\n> Have question? Write here — <#718536569199525958>\n> Want to become Server Staff? Write `%apply` here —  <#757664029664739339>\n\n**Our official invite link: https://discord.gg/saofans**\n**Twitter page: https://twitter.com/saofans_en**\n\nStay safe! 😷\n\n*P.S. New event will be launch very soon 😉\nBest wishes, 𝒜𝓇𝑔𝑜*\n\n*P.P.S. Sorry guys that <@384090776075763732> was so inactive last days. Betrayal from \"friends\" and grandmother death can't allow him be active. Please support him and <@&743143586006040658> please help him keep server in cleanliness and order. \nThank you! You're the best! ❤*",
+            "color": 1746708,
+            "image": {
+              "url": "https://artfiles.alphacoders.com/839/83908.jpg"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

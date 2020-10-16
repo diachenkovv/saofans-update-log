@@ -2,6 +2,46 @@
 
 ---
 
+### v.8 — Autumn Update 🍁
+
+- **I'm a boy/girl!** 🚻
+  Yayy, finally you can choose gender and avoid misunderstanding situation!
+
+- **Selfie, please!** 🤳
+  Want make face reveal? Now you can! [#〖🤳〗selfies](`<#757649999650750745>`) waiting for you!
+
+- **Fanfics for other anime? Now can share!** 📔
+  Share your fanfics from others anime here [#〖📔〗anime-fanfics](`<#757653154102902794>`)
+
+- **Partnership needed!** ✍
+  Want make partnership? Leave your application here [#〖🤝〗partnership](`<#757658057609314325>`)
+  > Application should have:
+  >
+  > - Owner's Discord username
+  > - Descriprion
+  > - Invite link
+  >   Or just enter `%register`
+
+> **Attention! ⚠ ** > _You can't see channel history, so carefully enter information_
+
+- **Applications now have separate category!** 📁
+  Now channels with applications have separate category. Now available:
+
+* [#〖🔰〗guild-applications](`<#730830601887940649>`)
+* [#〖🤝〗partnership](`<#757658057609314325>`)
+* [#〖😎〗server-staff](`<#757664029664739339>`)
+
+- **I want good playlists!** 🎧
+  Channel with playlists for your streaming service you can find here: [#〖🎼〗playlists](`<#757651823585919106>`)
+
+- **Other stuff** 📦
+  Channels without category will locate in Other Stuff Zone
+
+- **New guild available!** 🔰
+  [@Reckless Squad](`<@&757665009886036060>`) guild now available!
+
+## 🔧 **Other bugs fixed** 🐞
+
 ## v.7.3 — Patch Update 🛠
 
 - **We have 3rd level of boosting!** 💎

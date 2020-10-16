@@ -1,26 +1,42 @@
-# Server updated to v.7.3 — Patch Update 🛠
+# Server updated to v.8 — Autumn Update 🍁
 
 ## What's new?
 
-- **We have 3rd level of boosting!** 💎
-  Now you can:
+- **I'm a boy/girl!** 🚻
+  Yayy, finally you can choose gender and avoid misunderstanding situation!
 
-* Upload to 100 Mb files;
-* Sound quality in voice chats - <384 kbit
-* 100 slots for emoji (now 250)
-* Custom URL invite link
+- **Selfie, please!** 🤳
+  Want make face reveal? Now you can! [#〖🤳〗selfies](`<#757649999650750745>`) waiting for you!
 
-- **I want this emoji!** 😁
-  We launched channel <#753660231396884610>! Send square PNG or GIF (<256 Kb) emoji suggestions!
+- **Fanfics for other anime? Now can share!** 📔
+  Share your fanfics from others anime here [#〖📔〗anime-fanfics](`<#757653154102902794>`)
 
-- **Server Staff Rank-up applications open!** 🆙
-  After raids quarantine applications again open! (Now only for rank-up, for Moderators applications will be open soon, stay tune)
+- **Partnership needed!** ✍
+  Want make partnership? Leave your application here [#〖🤝〗partnership](`<#757658057609314325>`)
+  > Application should have:
+  >
+  > - Owner's Discord username
+  > - Descriprion
+  > - Invite link
+  >   Or just enter `%register`
 
-- **Updated banners and server icon!** 🖼
-  With autumn updated banners and icon! Have suggestions for banners and icon? Send to <#718535990771318906> channel (with description: invite banner (16:9, at least 1366x768), server banner (16:9 at least 1366x769), or server icon (1:1 at least 500x500)
+> **Attention! ⚠ ** > _You can't see channel history, so carefully enter information_
 
-- **New members verification!** ✒
-  Now new members should verify their accounts here <#749960377864814643>. If you want generate invite link - use this channel. Other channels new members without verifications can't see! Or use this link - https://discord.gg/saofans
+- **Applications now have separate category!** 📁
+  Now channels with applications have separate category. Now available:
+
+* [#〖🔰〗guild-applications](`<#730830601887940649>`)
+* [#〖🤝〗partnership](`<#757658057609314325>`)
+* [#〖😎〗server-staff](`<#757664029664739339>`)
+
+- **I want good playlists!** 🎧
+  Channel with playlists for your streaming service you can find here: [#〖🎼〗playlists](`<#757651823585919106>`)
+
+- **Other stuff** 📦
+  Channels without category will locate in Other Stuff Zone
+
+- **New guild available!** 🔰
+  [@Reckless Squad](`<@&757665009886036060>`) guild now available!
 
 🔧 **Other bugs fixed** 🐞
 
@@ -35,5 +51,9 @@
 
 Stay safe! 😷
 
-_P.S. New school year began, so server became less active_
-![picture](https://d2halst20r4hcy.cloudfront.net/ff4/db733/d334/4005/b8b2/bef948033991/original/4979267.png)
+_P.S. New event will be launch very soon 😉
+Best wishes, 𝒜𝓇𝑔𝑜_
+
+_P.P.S. Sorry guys that [@Kirigaya Kazuto](`<@384090776075763732>`) was so inactive last days. Betrayal from "friends" and grandmother death can't allow him be active. Please support him and [@Server Staff](`<@&743143586006040658>`) please help him keep server in cleanliness and order.
+Thank you! You're the best! ❤_
+![picture](https://artfiles.alphacoders.com/839/83908.jpg)
