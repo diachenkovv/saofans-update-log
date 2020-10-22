@@ -16,7 +16,7 @@
   Check <#732651124506492938> for new events!
   Also added Events category (in beta):
 
-  - [〖➕〗join]](`<#764913824502513682>`) - take part in event
+  - [〖➕〗join](`<#764913824502513682>`) - take part in event
   - [〖🍂〗autumn](`<#764913532294266911>`) - for autumn drawings
   - [〖🎃〗halloween](`<#764917567063851008>`) - for halloween drawings
   - [〖📮〗rep-points](`<#766635332421681194>`) - for Rep Points event
@@ -33,11 +33,8 @@
 > Want to become Server Staff? Write `%apply` here — [#〖😎〗server-staff](`<#757664029664739339>`)
 
 **Our official invite link: https://discord.gg/saofans**  
-**Twitter page: https://twitter.com/saofans_en**  
-**Official Russian invite link: https://discord.io/saofans_ru**
+**Twitter page: https://twitter.com/saofans_en**
 
 Stay safe! 😷
 
-_P.S. New event will be launch today-tomorrow. Sorry for long waiting 😓
-Best wishes, 𝒜𝓇𝑔𝑜_  
 ![picture](https://images6.fanpop.com/image/photos/42900000/Sword-Art-Online-Halloween-blaze1213isback-42930756-1024-417.jpg)
