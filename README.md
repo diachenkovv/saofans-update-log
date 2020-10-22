@@ -40,4 +40,4 @@ Stay safe! 😷
 
 _P.S. New event will be launch today-tomorrow. Sorry for long waiting 😓
 Best wishes, 𝒜𝓇𝑔𝑜_  
-![picture](https://i.pinimg.com/564x/2a/53/9a/2a539a1fbcbad4988ed322a30c30b1aa.jpg)
+![picture](https://images6.fanpop.com/image/photos/42900000/Sword-Art-Online-Halloween-blaze1213isback-42930756-1024-417.jpg)
