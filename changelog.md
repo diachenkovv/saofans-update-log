@@ -2,7 +2,34 @@
 
 ---
 
-### v.9 — Fun Update 🃏 (02.10.2020)
+## v.9.1 — Halloween Update 🎃
+
+- **Updated server icon and banners!** 🖼
+  Updated server look to Halloween theme
+
+- **Added server map!** 🗺
+  Added [〖🗺〗server-map](`<#768810508694192189>`) channel
+
+- **Goal reached!** 🥳
+  We have more than 250 members!!! Our server grows faster!
+  Next goal — 500
+
+- **New events available!** 🎁
+  Check <#732651124506492938> for new events!
+  Also added Events category (in beta):
+
+  - [〖➕〗join]](`<#764913824502513682>`) - take part in event
+  - [〖🍂〗autumn](`<#764913532294266911>`) - for autumn drawings
+  - [〖🎃〗halloween](`<#764917567063851008>`) - for halloween drawings
+  - [〖📮〗rep-points](`<#766635332421681194>`) - for Rep Points event
+
+- **Server official playlist** 🎼
+  Let's make own server music playlist!
+  Follow to [Server Spotify Playlist](https://open.spotify.com/playlist/4DOIOuLYTSF1LTxQlaTMVp?si=xISmwdd_TESomM0aSa_kDg) and add your favourite song! (Every week playlist will be clear and every week you can add your other favourite song!)
+
+## 🔧 **Other bugs fixed** 🐞
+
+## v.9 — Fun Update 🃏 (02.10.2020)
 
 - **Finally! Game bot!** 🃏
   AniGame bot now available in our server! 🥳
@@ -30,7 +57,7 @@
 
 ---
 
-### v.8 — Autumn Update 🍁 (21.09.2020)
+## v.8 — Autumn Update 🍁 (21.09.2020)
 
 - **I'm a boy/girl!** 🚻
   Yayy, finally you can choose gender and avoid misunderstanding situation!

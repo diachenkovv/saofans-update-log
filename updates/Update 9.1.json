@@ -1,0 +1,22 @@
+{
+  "version": 3,
+  "backups": [
+    {
+      "name": "Update 9.1",
+      "webhookUrl": "https://discordapp.com/api/webhooks/719139657958293514/_H3eT3VWFW0Gq58QHMvxAOsDYS5dznpmGaJ1psgT6clv1iNcnfv0BR4KH8-x0t-QUv0c",
+      "message": {
+        "content": "@everyone",
+        "embeds": [
+          {
+            "title": "Server updated to v.9.1 — Halloween Update 🎃",
+            "description": "**What's new?**\n\n+ **__Updated server icon and banners!__** 🖼\nUpdated server look to Halloween theme\n\n+ **__Added server map!__** 🗺\nAdded <#768810508694192189> channel\n\n+ **__Goal reached!__** 🥳\nWe have more than 250 members!!! Our server grows faster!\nNext goal — 500\n\n+ **__New events available!__** 🎁\nCheck <#732651124506492938> for new events!\nAlso added Events category (in beta):\n    * <#764913824502513682> - take part in event\n    * <#764913532294266911> - for autumn drawings\n    * <#764917567063851008> - for halloween drawings\n    * <#766635332421681194> - for Rep Points event\n\n+ **__Server official playlist__** <:Spotify:723644091996307556>\nLet's make own server music playlist!\nFollow to [Server Spotify Playlist](https://open.spotify.com/playlist/4DOIOuLYTSF1LTxQlaTMVp?si=xISmwdd_TESomM0aSa_kDg) and add your favourite song! (Every week playlist will be clear and every week you can add your other favourite song!)\n\n🔧 **__Other bugs fixed__** 🐞\n\n> You know how make server better? <@&718500117660958770> are waiting for you here — <#718535990771318906>\n> If you found bug please write here — <#718536211953745941>\n> Have question? Write here — <#718536569199525958>\n> Want to become Server Staff? Write `%apply` here —  <#757664029664739339>\n\n**Our official invite link: https://discord.gg/saofans**\n**Twitter page: https://twitter.com/saofans_en**\n\nStay safe! 😷",
+            "color": 1746708,
+            "image": {
+              "url": "https://images6.fanpop.com/image/photos/42900000/Sword-Art-Online-Halloween-blaze1213isback-42930756-1024-417.jpg"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

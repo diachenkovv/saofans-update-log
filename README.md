@@ -1,28 +1,29 @@
-# Server updated to v.9 — Fun Update 🃏
+# Server updated to v.9.1 — Halloween Update 🎃
 
 ## What's new?
 
-- **Finally! Game bot!** 🃏
-  AniGame bot now available in our server! 🥳
-  Channel for AniGame — [#〖🃏〗games](`<#761645256542126121>`)
-  Prefix: `$`
+- **Updated server icon and banners!** 🖼
+  Updated server look to Halloween theme
 
-- **Minasan, здравий! Ich bin je parle українською!** 🌍
-  Want speak in your primary language? Now you can! Use [#〖🌍〗worldwide-chat](`<#761644726642147378>`)! 🎎
+- **Added server map!** 🗺
+  Added [〖🗺〗server-map](`<#768810508694192189>`) channel
 
-- **Do you anyone know link to SAO Manga?** 🔗
-  Yes, now we have! Share with useful links here — [#〖🔗〗useful-links](`<#761649747798523954>`)
+- **Goal reached!** 🥳
+  We have more than 250 members!!! Our server grows faster!
+  Next goal — 500
 
-  > For +18 content links use [#〖🔞〗nsfw-chat](`<#734817461450440716>`)
+- **New events available!** 🎁
+  Check <#732651124506492938> for new events!
+  Also added Events category (in beta):
 
-- **I found cool pics for our server!** 🖼
-  Leave nice pics for server here: [#〖🎴〗server-pics](`<#761645468840886272>`)
+  - [〖➕〗join]](`<#764913824502513682>`) - take part in event
+  - [〖🍂〗autumn](`<#764913532294266911>`) - for autumn drawings
+  - [〖🎃〗halloween](`<#764917567063851008>`) - for halloween drawings
+  - [〖📮〗rep-points](`<#766635332421681194>`) - for Rep Points event
 
-- **New server pics!** 🎨
-  Icon, invite banner and server banner updated!
-
-- **Other stuff!** 📦
-  Updated some channels icons
+- **Server official playlist** 🎼
+  Let's make own server music playlist!
+  Follow to [Server Spotify Playlist](https://open.spotify.com/playlist/4DOIOuLYTSF1LTxQlaTMVp?si=xISmwdd_TESomM0aSa_kDg) and add your favourite song! (Every week playlist will be clear and every week you can add your other favourite song!)
 
 🔧 **Other bugs fixed** 🐞
 
